@@ -2,7 +2,7 @@
 
 Series of React.js mini projects to learn core concepts - all culminating in the final project: Keeper!
 
-### [Keeper App]()
+### [Keeper App](./Keeper-App/)
 
 !["Keeper"](Keeper.jpg)
 
@@ -10,7 +10,7 @@ Series of React.js mini projects to learn core concepts - all culminating in the
 
 - [01.0-Introduction-to-JSX](./01.0-Introduction-to-JSX/)
 - [01.5-JSX-Code-Challenge](./01.5-JSX-Code-Challenge/)
-- [](./)
+- [02.0-Javascript-Expressions-in-JSX](./02.0-Javascript-Expressions-in-JSX/)
 - [](./)
 - [](./)
 - [](./)
