@@ -4,4 +4,4 @@ Projects and learning from Stephen Grider's [TypeScript: The Complete Developer'
 
 ### [Certificate](https://www.udemy.com/certificate/UC-d22f703d-1067-485c-be6b-a0160439c4fc/)
 
-!["Certificate"](Certificate.jpg)
+!["Certificate"](./Certificate.jpg)
