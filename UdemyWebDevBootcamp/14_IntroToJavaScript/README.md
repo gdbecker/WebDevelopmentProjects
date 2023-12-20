@@ -27,6 +27,8 @@ You should NOT redeclare the variables a and b.
 Hint: Use this code playground to run your code and see if it matches your expectations.
 Hint: The solution is just 3 lines of code.
 
+---
+
 #### LifeInWeeks.js
 
 Life in Weeks Coding Exercise
@@ -61,6 +63,8 @@ Hint
 
 - Try using this Repl.it playground to test your code and see if the output is what you expect it to be.
 - Make sure your console.log output matches the example output precisely. The same capitalisation, the same spaces, commas and full stops.
+
+---
 
 #### BMI.js
 

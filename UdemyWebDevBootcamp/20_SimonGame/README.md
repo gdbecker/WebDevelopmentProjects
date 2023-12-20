@@ -1,6 +1,6 @@
 ## 20 - Boss Level Challenge 2 - The Simon Game
 
-### [Demo](https://simongame.gdbecker.repl.co/)
+### [Demo: Simon Game](https://simongame.gdbecker.repl.co/)
 
 !["Page"](./Page.png)
 

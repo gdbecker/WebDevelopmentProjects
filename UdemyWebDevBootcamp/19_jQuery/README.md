@@ -1,6 +1,6 @@
 ## 19 - jQuery
 
-### [Demo](https://jquerypractice.gdbecker.repl.co/)
+### [Demo: jQuery Practice](https://jquerypractice.gdbecker.repl.co/)
 
 !["Page"](./Page.png)
 

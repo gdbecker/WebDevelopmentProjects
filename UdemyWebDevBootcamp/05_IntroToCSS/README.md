@@ -1,6 +1,6 @@
 ## 05 - Introduction to CSS
 
-### [Demo](https://colorvocabwebsite.gdbecker.repl.co/)
+### [Demo: Color Vocab Website](https://colorvocabwebsite.gdbecker.repl.co/)
 
 !["Page"](./Page.png)
 

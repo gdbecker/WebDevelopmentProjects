@@ -1,6 +1,6 @@
 ## 07 - Intermediate CSS
 
-### [Demo](https://csslaosflag.gdbecker.repl.co/)
+### [Demo: CSS Flag](https://csslaosflag.gdbecker.repl.co/)
 
 !["Page"](./Page.png)
 

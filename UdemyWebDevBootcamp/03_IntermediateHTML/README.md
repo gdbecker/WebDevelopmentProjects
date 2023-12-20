@@ -1,6 +1,6 @@
 ## 03 - Intermediate HTML
 
-### [Demo](https://birthdayinvite.gdbecker.repl.co/)
+### [Demo: Birthday Invite](https://birthdayinvite.gdbecker.repl.co/)
 
 !["Page"](./Page.png)
 

@@ -1,6 +1,6 @@
 ## 26 - Capstone Project - Create a Blog Web Application
 
-### [Demo](https://blogwebappv2.gdbecker.repl.co/)
+### [Demo: Blog Project V2](https://blogwebappv2.gdbecker.repl.co/)
 
 #### Home Page
 
@@ -68,14 +68,14 @@ FAQs
 
 1. Where are the starting files/styling files/solution code?
 
-- The purpose of Capstone projects is for you to develop the independent skills required in a professional developer. Unlike the tutorial projects at the end of the modules, capstone project give you far more freedom, but also they give you less help. There are no starting files, styling files, steps, guidance or solution code. The point is for you to build a real-life project by yourself using the skills you have acquired up to this point. We are assuming you have not skipped over any modules in the course.
-- For more information on capstone projects, see this video: https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350282
+   - The purpose of Capstone projects is for you to develop the independent skills required in a professional developer. Unlike the tutorial projects at the end of the modules, capstone project give you far more freedom, but also they give you less help. There are no starting files, styling files, steps, guidance or solution code. The point is for you to build a real-life project by yourself using the skills you have acquired up to this point. We are assuming you have not skipped over any modules in the course.
+   - For more information on capstone projects, see this video: https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350282
 
 2. Can I use these Capstone projects in my job interviews/portfolio?
 
-- Yes! That's the point of these capstone projects. Unlike course projects, which have solution code and video walkthroughs, Capstone Projects are meant to be entirely your "own work". There are over a million students who have enrolled on this web development course worldwide. If you add a course project to your portfolio, it's very likely that your client will know it's from this course. The capstone projects on the other hand, have no solution code, no walk through, no design specs. It's it purely your creation So it can definitely be counted as your own work and be added to your portfolio.
-- When I hire developers, I always ask for a portfolio. I consider what they have built by themselves to be far more important than which University they went to or if they have a computer science degree. Many of my friends who are CEOs in multi-nationals and startups agree.
+   - Yes! That's the point of these capstone projects. Unlike course projects, which have solution code and video walkthroughs, Capstone Projects are meant to be entirely your "own work". There are over a million students who have enrolled on this web development course worldwide. If you add a course project to your portfolio, it's very likely that your client will know it's from this course. The capstone projects on the other hand, have no solution code, no walk through, no design specs. It's it purely your creation So it can definitely be counted as your own work and be added to your portfolio.
+   - When I hire developers, I always ask for a portfolio. I consider what they have built by themselves to be far more important than which University they went to or if they have a computer science degree. Many of my friends who are CEOs in multi-nationals and startups agree.
 
 3. What if I don't remember how to do something, even though I watched all the videos?
 
-- Watching a video is often not enough to learn a skill. That's why these capstone projects are a great opportunity to identify your weak points. While you're building, you'll find yourself stuck or forgetting how to do things. Great! It's then time to review previous lessons or online documentation to fill your knowledge gaps.
+   - Watching a video is often not enough to learn a skill. That's why these capstone projects are a great opportunity to identify your weak points. While you're building, you'll find yourself stuck or forgetting how to do things. Great! It's then time to review previous lessons or online documentation to fill your knowledge gaps.

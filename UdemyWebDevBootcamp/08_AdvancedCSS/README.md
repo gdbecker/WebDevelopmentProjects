@@ -1,6 +1,6 @@
 ## 08 - Advanced CSS
 
-### [Demo](https://webdesignagencywebsite.gdbecker.repl.co/)
+### [Demo: Web Design Agency Website](https://webdesignagencywebsite.gdbecker.repl.co/)
 
 #### Mobile View
 

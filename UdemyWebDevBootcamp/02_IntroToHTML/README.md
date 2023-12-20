@@ -1,6 +1,6 @@
 ## 02 - Introduction to HTML
 
-### [Demo](https://movieranking.gdbecker.repl.co/)
+### [Demo: Movie Ranking](https://movieranking.gdbecker.repl.co/)
 
 !["Page"](./Page.png)
 

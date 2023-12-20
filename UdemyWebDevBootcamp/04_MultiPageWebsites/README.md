@@ -1,6 +1,6 @@
 ## 04 - Multi-Page Websites
 
-### [Demo](https://041-044-personal-site-html.gdbecker.repl.co/)
+### [Demo: Personal Site](https://041-044-personal-site-html.gdbecker.repl.co/)
 
 !["Page"](./Page.png)
 

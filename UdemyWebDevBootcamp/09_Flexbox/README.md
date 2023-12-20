@@ -1,6 +1,6 @@
 ## 09 - Flexbox
 
-### [Demo](https://pricingtable.gdbecker.repl.co/)
+### [Demo: Pricing Table](https://pricingtable.gdbecker.repl.co/)
 
 #### Mobile View
 

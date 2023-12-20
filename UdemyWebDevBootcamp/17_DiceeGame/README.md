@@ -1,6 +1,6 @@
 ## 17 - Boss Level Challenge 1 - The Dicee Game
 
-### [Demo](https://diceegame.gdbecker.repl.co/)
+### [Demo: Dicee Game](https://diceegame.gdbecker.repl.co/)
 
 !["Page"](./Page.png)
 

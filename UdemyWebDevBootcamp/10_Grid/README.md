@@ -1,6 +1,6 @@
 ## 10 - Grid
 
-### [Demo](https://mondrianpainting.gdbecker.repl.co/)
+### [Demo: Mondrian Painting](https://mondrianpainting.gdbecker.repl.co/)
 
 !["Page"](./Page.png)
 

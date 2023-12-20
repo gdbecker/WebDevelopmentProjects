@@ -1,6 +1,6 @@
 ## 06 - CSS Properties
 
-### [Demo](https://motivationalposterwebsite.gdbecker.repl.co/)
+### [Demo: Motivational Poster Website](https://motivationalposterwebsite.gdbecker.repl.co/)
 
 !["Page"](./Page.png)
 

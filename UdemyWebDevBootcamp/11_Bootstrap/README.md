@@ -1,6 +1,6 @@
 ## 11 - Bootstrap
 
-### [TinDog Demo](https://058-tindog-website.gdbecker.repl.co/)
+### [Demo: TinDog](https://058-tindog-website.gdbecker.repl.co/)
 
 !["Page"](./Page.png)
 

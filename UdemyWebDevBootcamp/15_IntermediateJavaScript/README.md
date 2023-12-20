@@ -16,6 +16,8 @@ The message MUST be returned as an output from your function. You should NOT NEE
 
 IMPORTANT the message wording has to match precisely for the code to pass the validation. Including punctuation and capitalisation.
 
+---
+
 #### LeapYear.js
 
 💪This is a Difficult Challenge 💪
@@ -72,6 +74,8 @@ Hints
 - If you really get stuck, you can see the flow chart I created.
 - Try to run your code in this Repl.it playground and check it against the known leap years.
 
+---
+
 #### WhoBuyingLunch.js
 
 You are going to write a function which will select a random name from a list of names. The person selected will have to pay for everybody's food bill.
@@ -94,6 +98,8 @@ Hints
 
 - You might need to think about Array.length.
 - Remember that Arrays start at position 0!
+
+---
 
 #### Fibonacci.js
 
@@ -150,6 +156,8 @@ e.g. for (var i = 0; i < 10; i ++)
 HINT: Use this Repl.it Playground to test out your solution.
 
 HINT: Use this flow chart to understand the logic if you get stuck.
+
+---
 
 #### FizzBuzz.js
 

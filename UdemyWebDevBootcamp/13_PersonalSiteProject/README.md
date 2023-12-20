@@ -1,6 +1,6 @@
 ## 13 - Personal Site Project
 
-### [Demo](https://replit.com/@gdbecker/041-044-Personal-Site-CSS)
+### [Demo: Personal Site](https://replit.com/@gdbecker/041-044-Personal-Site-CSS)
 
 !["Page"](./Page.png)
 
@@ -40,11 +40,12 @@ The goal of this project is to create a personal website that showcases your ski
 
 ### FAQs
 
-1. Can I use these Capstone projects in my job interviews?
+1.  Can I use these Capstone projects in my job interviews?
 
-- Yes! That's the point of these capstone projects. Unlike course projects, which have solution code and video walkthroughs, Capstone Projects are meant to be entirely your "own work". There are over a million students who have enrolled on this web development course worldwide. If you add a course project to your portfolio, it's very likely that your client will know it's from this course. The capstone projects on the other hand, have no solution code, no walk through, no design specs. It's it purely your creation So it can definitely be counted as your own work and be added to your portfolio.
-- When I hire developers, I always ask for a portfolio. I consider what they have built by themselves to be far more important than which University they went to or if they have a computer science degree. Many of my friends who are CEOs in multi-nationals and startups agree.
+    - Yes! That's the point of these capstone projects. Unlike course projects, which have solution code and video walkthroughs, Capstone Projects are meant to be entirely your "own work". There are over a million students who have enrolled on this web development course worldwide. If you add a course project to your portfolio, it's very likely that your client will know it's from this course. The capstone projects on the other hand, have no solution code, no walk through, no design specs. It's it purely your creation So it can definitely be counted as your own work and be added to your portfolio.
 
-2. What if I don't remember how to do something, even though I watched all the videos?
+    - When I hire developers, I always ask for a portfolio. I consider what they have built by themselves to be far more important than which University they went to or if they have a computer science degree. Many of my friends who are CEOs in multi-nationals and startups agree.
 
-- Watching a video is often not enough to learn a skill. That's why these capstone projects are a great opportunity to identify your weak points. While you're building, you'll find yourself stuck or forgetting how to do things. Great! It's then time to review previous lessons or online documentation to fill your knowledge gaps.
+2.  What if I don't remember how to do something, even though I watched all the videos?
+
+    - Watching a video is often not enough to learn a skill. That's why these capstone projects are a great opportunity to identify your weak points. While you're building, you'll find yourself stuck or forgetting how to do things. Great! It's then time to review previous lessons or online documentation to fill your knowledge gaps.
