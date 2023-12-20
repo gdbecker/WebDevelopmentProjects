@@ -1,0 +1,62 @@
+body {
+  background-color: #faf9f6;
+  display: flex;
+  flex-direction: column;
+  font-family: "Poppins", sans-serif;
+  margin: 50px 50px 0 50px;
+  min-height: 95vh;
+
+}
+.main {
+  flex: 1;
+  overflow: hidden;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+footer {
+  text-align: right;
+  color: midnightblue;
+}
+
+/* CSS added for screen size responsiveness */
+.left-card {
+  width: 50%;
+  float: left;
+}
+
+.tile-image {
+  float: left;
+  width: 50%;
+
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.right-card {
+  overflow: hidden;
+  width: 50%;
+}
+
+@media screen and (max-width: 800px) {
+  .left-card {
+    width: 100%;
+    float: none;
+  }
+  
+  .right-card {
+    overflow: none;
+    width: 100%;
+  }
+
+  .tile-image {
+    float: none;
+    width: 100%;
+  }
+  
+  .card-text {
+    float: none;
+  }
+}
