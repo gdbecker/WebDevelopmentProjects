@@ -12,3 +12,11 @@
   - Missing or empty values are not allowed. Attempts to add NULL wil result in an error
 - UNIQUE
   - Value cannot be repeated in the table. No other value stored can be the same (avoids duplicates)
+
+### Projects in this Section
+
+- [Capitals Quiz](./CapitalsQuiz/)
+- [Family Travel Tracker](./FamilyTravelTracker/)
+- [Flags Quiz](./FlagsQuiz/)
+- [Permalist](./PermalistProject/)
+- [Travel Tracker](./TravelTracker/)

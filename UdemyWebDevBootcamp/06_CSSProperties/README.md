@@ -2,9 +2,9 @@
 
 ### [Demo: Motivational Poster Website](https://motivationalposterwebsite.gdbecker.repl.co/)
 
-!["Page"](./Page.png)
-
 Practice mini project for basic HTML and CSS: motivational poster website.
+
+!["Page"](./Page.png)
 
 ### Assignment: Create a motivational post website.
 

@@ -2,6 +2,6 @@
 
 ### [Demo: Birthday Invite](https://birthdayinvite.gdbecker.repl.co/)
 
-!["Page"](./Page.png)
-
 Practice mini project for basic HTML structure: birthday invite webpage.
+
+!["Page"](./Page.png)

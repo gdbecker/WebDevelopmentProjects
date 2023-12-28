@@ -17,6 +17,8 @@
 
 ### [Demo: Band Name Generator](https://bandgenerator.gdbecker.repl.co/)
 
+Practicing EJS, partials, templating to make a random band/company name generator.
+
 #### Main Page
 
 !["MainPage"](./MainPage.png)
@@ -24,5 +26,3 @@
 #### Generated Band Name
 
 !["GeneratedPage"](./GeneratedPage.png)
-
-Practicing EJS, partials, templating to make a random band/company name generator.

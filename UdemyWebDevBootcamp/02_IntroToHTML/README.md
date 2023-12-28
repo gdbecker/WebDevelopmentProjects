@@ -2,6 +2,6 @@
 
 ### [Demo: Movie Ranking](https://movieranking.gdbecker.repl.co/)
 
-!["Page"](./Page.png)
-
 Practice mini project for basic HTML structure: top 3 movies webpage.
+
+!["Page"](./Page.png)

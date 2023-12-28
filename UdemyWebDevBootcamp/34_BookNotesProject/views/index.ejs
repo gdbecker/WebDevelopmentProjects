@@ -1,0 +1,115 @@
+<%- include('partials/header.ejs'); -%>
+
+  <div class="page-bookends">
+    <a class="header" href="/">
+      <img id="header-icon" src="/assets/icons/book-open-solid.svg"/>
+      <h1 id="header-title">BookNotes</h1>
+    </a>
+  </div>
+  
+
+  <div class="book-form">
+    <form class="form-row" action="/addBook" method="post">
+      <input type="text" name="newBook" placeholder="<%= locals.error ? error : 'New Book ISBN-10'%>" autocomplete="off" />
+      <button class="btn add-btn" type="submit" name="list" value="">+</button>
+    </form>
+  </div>
+  
+  
+  <div class="container">
+    <% for(let book of books){%>
+      <div class="card">
+        <div class="card-img" style="background-image: url(<%= book.url %>)"></div>
+
+        <div class="card-entry-background">
+          <div class="form-row">
+            <div>
+              <button 
+                id="update-review-inactive<%= book.review.id%>" 
+                class="btn update-btn" 
+                onclick="handler('<%= book.review.id%>')" 
+                name="updateReviewId" 
+                value="<%= book.review.id %>"
+              >Update Review</button>
+            </div>
+
+            <div>
+              <button 
+                id="update-review-active<%= book.review.id%>" 
+                class="btn update-btn" 
+                onclick="handler('<%= book.review.id%>')" 
+                name="updateReviewId" 
+                value="<%= book.review.id %>" 
+                hidden
+              >Cancel Update</button>
+            </div>
+            
+            <form action="/deleteReview" method="post">
+              <button 
+                id="delete-review<%= book.review.id%>" 
+                class="btn delete-btn" 
+                onclick="this.form.submit()" 
+                name="deleteReviewId" 
+                value="<%= book.review.id %>"
+              >Delete Review</button>
+            </form>
+
+            <form action="/deleteBook" method="post">
+              <button 
+                id="delete-book<%= book.review.id%>" 
+                class="btn delete-btn" 
+                onclick="this.form.submit()" 
+                name="deleteBookId" 
+                value="<%= book.id %>"
+              >Delete Book</button>
+            </form>  
+          </div>
+
+          <div class="card-entry-content" id="entry-inactive<%= book.review.id%>">
+            <%= book.review.entry %>
+          </div>
+
+          <form class="form-row update-review-form" action="/updateReview" method="post">
+            <input type="hidden" name="updatedReviewId" value="<%= book.review.id %>">
+            <textarea 
+              id="entry-active<%= book.review.id %>" 
+              name="updatedReviewEntry" 
+              rows="8"
+              cols="50"
+              style="display: none"
+            ><%= book.review.entry %></textarea>
+            <button 
+              id="update-review-btn<%= book.review.id%>" 
+              class="btn update-btn update-review-btn" 
+              name="updateReviewId" 
+              value="<%= book.review.id %>"
+              type="submit"
+              hidden
+            >Update Review</button>
+          </form>
+        </div>
+      </div>
+    <% } %>
+  </div>
+  
+  <script>
+    function handler(id) {
+      document.getElementById("update-review-inactive" + id).toggleAttribute("hidden");
+      document.getElementById("update-review-active" + id).toggleAttribute("hidden");
+
+      document.getElementById("entry-inactive" + id).toggleAttribute("hidden");
+      
+      let entryStyle = document.getElementById("entry-active" + id).style.display;
+      if(entryStyle === "block") {
+        document.getElementById("entry-active" + id).style.display = "none";
+      } else {
+        document.getElementById("entry-active" + id).style.display = "block";
+      }
+      
+      document.getElementById("update-review-btn" + id).toggleAttribute("hidden");
+      
+      document.getElementById("delete-review" + id).toggleAttribute("disabled");
+      document.getElementById("delete-book" + id).toggleAttribute("disabled");
+    }
+  </script>
+<%- include('partials/footer.ejs'); -%>

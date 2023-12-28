@@ -2,13 +2,13 @@
 
 ### [Demo: Weather API Project](https://weatherapiproject.gdbecker.repl.co/)
 
+Enter a city and receive back the current weather in degrees and general description. Uses the OpenWeatherAPI.
+
 !["HomePage"](./HomePage.png)
 
 !["WeatherPage"](./WeatherPage.png)
 
-Enter a city and receive back the current weather in degrees and general description. Uses the OpenWeatherAPI.
-
-### Project Overview
+### Project Assignment
 
 In this project, students are expected to build a website using the Express/Node.js platform, with the Axios HTTP client, that integrates a chosen public API from the given list: Public API Lists. The website should interact with the chosen API, retrieve data, and present it in a user-friendly manner.
 

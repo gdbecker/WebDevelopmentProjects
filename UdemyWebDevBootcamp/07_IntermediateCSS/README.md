@@ -2,9 +2,9 @@
 
 ### [Demo: CSS Flag](https://csslaosflag.gdbecker.repl.co/)
 
-!["Page"](./Page.png)
-
 Practice mini project for basic HTML and CSS: recreate the country flag of Laos.
+
+!["Page"](./Page.png)
 
 ### Assignment: Recreate the country flag of Laos with CSS
 

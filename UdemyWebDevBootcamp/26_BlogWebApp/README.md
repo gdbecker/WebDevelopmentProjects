@@ -2,6 +2,10 @@
 
 ### [Demo: Blog Project V2](https://blogwebappv2.gdbecker.repl.co/)
 
+The goal of this project is to create a Blog web application using Node.js, Express.js, and EJS. The application will allow users to create and view blog posts. Posts will not persist between sessions as no database will be used in this version of the application. Styling will be an important aspect of this project to ensure a good user experience.
+
+(Blog Project V1 is a simpler version I built before adding a SQLite database and basic posts functionality)
+
 #### Home Page
 
 !["HomePage"](./HomePage.png)
@@ -20,31 +24,27 @@
 
 ### Project Overview: Blog Project V2
 
-(Blog Project V1 is a simpler version I built before adding a SQLite database and basic posts functionality)
+#### [Example](http://www.paulgraham.com/articles.html)
 
-The goal of this project is to create a Blog web application using Node.js, Express.js, and EJS. The application will allow users to create and view blog posts. Posts will not persist between sessions as no database will be used in this version of the application. Styling will be an important aspect of this project to ensure a good user experience.
-
-[Example](http://www.paulgraham.com/articles.html)
-
-Deliverables
+#### Deliverables
 
 - One Node project for the function of the website
 - Including at least one EJS file for the structure of the website
 - Including at least one CSS file for the styling of the website
 
-Features
+#### Features
 
 1. Post Creation: Users should be able to create new posts.
 2. Post Viewing: The home page should allow the user to view all their posts.
 3. Post Update/Delete: Users should be edit and delete posts as needed.
 4. Styling: The application should be well-styled and responsive, ensuring a good user experience on both desktop and mobile devices.
 
-Technical Requirements
+#### Technical Requirements
 
 1. Node.js & Express.js: The application will be a web server built using Node.js and Express.js. Express.js will handle routing and middleware.
 2. EJS: EJS will be used as the templating engine to generate dynamic HTML based on the application's state.
 
-Timeline
+#### Timeline
 
 - Hour 0: Planning
   - Gather content and design ideas, create wireframes and mockups. Plan out how the application will work, which routes might be necessary and which pages need to be made.
@@ -64,7 +64,7 @@ Timeline
   - Test the application on different devices and browsers to ensure the styling works correctly.
   - Fix any bugs or issues that came up during testing.
 
-FAQs
+#### FAQs
 
 1. Where are the starting files/styling files/solution code?
 
