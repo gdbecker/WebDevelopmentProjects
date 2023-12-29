@@ -467,25 +467,47 @@ function addCommas(number) {
 function init() {
 	console.log(global.currentPage);
 
-	// Page router
-	switch(global.currentPage) {
-		case 'index.html':
+	// Page router for local use
+	if (global.currentPage) {
+		switch(global.currentPage) {
+			case 'index.html':
+				displaySlider();
+				displayPopularMovies();
+				break;
+			case 'shows.html':
+				displayPopularShows();
+				break;
+			case 'movie-details.html':
+				displayMovieDetails();
+				break;
+			case 'tv-details.html':
+				displayShowDetails();
+				break;
+			case 'search.html':
+				search();
+				break;
+		}
+	}
+
+	switch(window.location.pathname) {
+		case '/':
 			displaySlider();
 			displayPopularMovies();
 			break;
-		case 'shows.html':
+		case '/shows':
 			displayPopularShows();
 			break;
-		case 'movie-details.html':
+		case '/movie-details':
 			displayMovieDetails();
 			break;
-		case 'tv-details.html':
+		case '/tv-details':
 			displayShowDetails();
 			break;
-		case 'search.html':
+		case '/search.html':
 			search();
 			break;
 	}
+	
 
 	highlightActiveLink();
 }
