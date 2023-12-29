@@ -1,10 +1,10 @@
-## Flixx Movie App Project
+# Flixx Movie App Project
 
-!["HomePage"](HomePage.jpeg)
-
-### Project Overview
+## [Live Demo]()
 
 Vanilla JavaScript-powered complete app for exploring movies and tv shows! Take a look at the twenty most popular movies rom TMDB, as well as a quick glance of current releases in theaters and on streaming. You can dig into each movie or show's details with a click to a separate page, as well as view paginated search results from the search bar.
+
+!["HomePage"](HomePage.jpeg)
 
 ### Key Features Built
 

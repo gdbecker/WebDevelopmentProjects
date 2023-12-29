@@ -1,4 +1,8 @@
-## Tracalorie App Project
+# Tracalorie App Project V1
+
+## [Live Demo](https://js-tracalorie-v1-gdbecker.netlify.app/)
+
+!["HomePage"](HomePage.png)
 
 ### Project Details
 
@@ -12,5 +16,3 @@ Full stack application built entirely with vanilla JavaScript! Set your daily ca
 - Reset calories consumed, meals and workouts
 - Uses localStorage as the data storage
 - Event listeners to keep track of clicks, keyups, and submits
-
-!["HomePage"](HomePage.png)

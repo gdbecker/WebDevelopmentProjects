@@ -465,6 +465,8 @@ function addCommas(number) {
 
 // Init App
 function init() {
+	console.log(global.currentPage);
+
 	// Page router
 	switch(global.currentPage) {
 		case 'index.html':
