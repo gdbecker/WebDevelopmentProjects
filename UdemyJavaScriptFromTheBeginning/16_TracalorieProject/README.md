@@ -1,4 +1,4 @@
-# Tracalorie App Project V1
+# Tracalorie App V1
 
 ## [Live Demo](https://js-tracalorie-v1-gdbecker.netlify.app/)
 

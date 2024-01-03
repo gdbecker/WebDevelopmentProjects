@@ -1,8 +1,3 @@
-const message = {
-	id: 1,
-	text: 'Hello World'
-};
-
 function capitalizeWords(str) {
 	return str
 		.toLowerCase()
@@ -15,8 +10,5 @@ function makeMoney(amount) {
 	return `$${amount}`;
 }
 
-// module.exports = message;
-module.exports = {
-	capitalizeWords,
-	makeMoney
-};
+// export default capitalizeWords;
+export { capitalizeWords, makeMoney };
