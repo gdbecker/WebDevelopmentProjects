@@ -1,4 +1,4 @@
-## 02 - Array Methods
+## 02 - Basic Array Methods
 
 ### Topics Covered
 

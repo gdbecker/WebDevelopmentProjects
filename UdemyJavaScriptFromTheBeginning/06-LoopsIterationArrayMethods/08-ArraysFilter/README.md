@@ -1,4 +1,4 @@
-## 08 - Arrays Filter
+## 08 - Array.filter
 
 ### Topics Covered
 

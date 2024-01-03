@@ -1,4 +1,4 @@
-## 07 - Arrays For Each
+## 07 - Array.forEach
 
 ### Topics Covered
 

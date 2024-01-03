@@ -1,10 +1,11 @@
 ## Let's Build a Web Framework
 
-### [Live Demo](https://typescript-build-a-web-framework.gdbecker.repl.co/)
+### [Live Demo: Web Framework](https://typescript-build-a-web-framework.gdbecker.repl.co/)
 
 !["HomePage"](HomePage.png)
 
-### Project Overview
+### Web Framework Project Overview
+
 - Build a totally reusable code base for a custom web framework!
 - General structure
   - Model Classes
@@ -24,12 +25,15 @@
     - Gives us the ability to save this person's data to a remote server, then retrieve it in the future
 
 ### Serialize
+
 - Convert data from an object into some save-able format (like .json)
 
 ### Deserialize
+
 - Put data on an object using some previously saved data (like .json)
 
 ### Tools and Packages Used
+
 - json-server
   - I was not able to use json-server here in Replit (unable to access more than one port) so I used dummy json data from https://jsonplaceholder.typicode.com/users as the "backend" instead
 - axios
@@ -37,6 +41,7 @@
 - concurrently
 
 ### Other Notes
+
 - Use "npx parcel index.html" now since parcel does not need to be installed via npm
 - Parcel bundles a .ts file into .js and injects it in the <script> tag where you had the original .ts file
 - In TypeSCript, strings can be keys

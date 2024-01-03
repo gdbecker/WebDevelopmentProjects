@@ -1,4 +1,4 @@
-## 14 - Styles and Classes
+## 14 - Working with Styles and Classes
 
 ### Topics Covered
 

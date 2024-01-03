@@ -1,4 +1,4 @@
-## 07 - Form Submission
+## 07 - Form Submission and FormData Object
 
 ### Topics Covered
 

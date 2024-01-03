@@ -1,4 +1,4 @@
-## 01 - Geolocation API
+## 01 - GeoLocation API
 
 ### Topics Covered
 

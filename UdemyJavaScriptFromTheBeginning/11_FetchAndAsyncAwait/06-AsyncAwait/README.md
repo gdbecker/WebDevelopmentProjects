@@ -1,4 +1,4 @@
-## 06 - Async Await
+## 06 - Async and Await
 
 ### Topics Covered
 

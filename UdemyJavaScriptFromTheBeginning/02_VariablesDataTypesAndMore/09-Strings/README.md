@@ -1,4 +1,4 @@
-## 09 - Strings
+## 09 - Working with Strings
 
 ### Topics Covered
 

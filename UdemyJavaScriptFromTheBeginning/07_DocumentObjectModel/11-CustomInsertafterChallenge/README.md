@@ -1,4 +1,4 @@
-## 11 - Custom Insert After Function
+## 11 - Custom insertAfter Challenge
 
 **Instructions**
 

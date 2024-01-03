@@ -1,4 +1,4 @@
-## 03 - Literals VS Constructors
+## 03 - Literals vs Built-in Constructors
 
 ### Topics Covered
 

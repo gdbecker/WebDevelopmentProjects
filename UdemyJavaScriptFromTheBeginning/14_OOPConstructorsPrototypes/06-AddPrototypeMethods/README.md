@@ -1,4 +1,4 @@
-## 06 - Add Prototype Methods
+## 06 - Adding Methods to the Prototype
 
 ### Topics Covered
 

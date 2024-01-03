@@ -1,4 +1,4 @@
-## 04 - DOM Selectors Multiple Elements
+## 04 - DOM Selectors - Multiple Elements
 
 ### Topics Covered
 

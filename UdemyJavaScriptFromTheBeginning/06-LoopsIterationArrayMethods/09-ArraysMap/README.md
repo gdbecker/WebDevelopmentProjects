@@ -1,4 +1,4 @@
-## 09 - Arrays Map
+## 09 - Array.map
 
 ### Topics Covered
 

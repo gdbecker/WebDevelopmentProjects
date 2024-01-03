@@ -1,4 +1,4 @@
-## 12 - Web Animation API
+## 12 - Web Animations API - Ball Project
 
 ### Topics Covered
 

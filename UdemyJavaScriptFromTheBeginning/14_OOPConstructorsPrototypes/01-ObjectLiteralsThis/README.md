@@ -1,4 +1,4 @@
-## 01 - Object Literals and This
+## 01 - Object Literals and the 'this' Keyword
 
 ### What is OOP?
 

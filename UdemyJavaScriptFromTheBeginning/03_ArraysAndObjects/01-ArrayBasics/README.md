@@ -1,4 +1,4 @@
-## 01 - Array Basics
+## 01 - Creating Arrays
 
 ### Topics Covered
 

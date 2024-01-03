@@ -1,4 +1,4 @@
-## 04 - Profile Scroller Project
+## 04 - Profile Scroller Mini-Project
 
 ### Topics Covered
 

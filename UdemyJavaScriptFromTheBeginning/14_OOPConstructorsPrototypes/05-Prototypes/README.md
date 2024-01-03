@@ -1,4 +1,4 @@
-## 05 - Prototypes
+## 05 - Prototypes and the Prototype Chain
 
 ### Topics Covered
 

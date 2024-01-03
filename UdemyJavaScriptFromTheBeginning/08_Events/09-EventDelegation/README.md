@@ -1,4 +1,4 @@
-## 09 - Event Delegation
+## 09 - Event Delegation and Multiple Elements
 
 ### Topics Covered
 

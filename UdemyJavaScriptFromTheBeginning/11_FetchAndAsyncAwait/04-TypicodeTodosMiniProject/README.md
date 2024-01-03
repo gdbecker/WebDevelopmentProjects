@@ -1,4 +1,4 @@
-## 04 - Typicode Todos Mini Project
+## 04 - Typicode Todos Mini-Project
 
 ### Overview
 

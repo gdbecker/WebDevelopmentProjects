@@ -1,4 +1,4 @@
-## 07 - Create and Add Elements
+## 07 - Create and Append Elements
 
 ### Topics Covered
 

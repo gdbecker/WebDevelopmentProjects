@@ -1,4 +1,4 @@
-## 05 - Fetch Error Handling
+## 05 - Fetch API Error Handling
 
 ### Topics Covered
 

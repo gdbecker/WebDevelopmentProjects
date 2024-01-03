@@ -1,4 +1,4 @@
-## 03 - Variables
+## 03 - Variables and Constants
 
 ### Ways to declare a variable
 

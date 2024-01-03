@@ -1,4 +1,4 @@
-## 06 - Private Properties Convention
+## 06 - Private Property Convention
 
 ### Topics Covered
 

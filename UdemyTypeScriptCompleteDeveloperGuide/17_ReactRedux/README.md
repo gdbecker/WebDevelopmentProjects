@@ -1,10 +1,10 @@
 ## React and Redux Class Components with TypeScript
 
-### [Live Demo](https://typescript-fetch-todos-app.gdbecker.repl.co/)
+### [Live Demo: Fetch Todos App](https://typescript-fetch-todos-app.gdbecker.repl.co/)
 
 !["HomePage"](HomePage.png)
 
-### Fetching Todos app Project Overview
+### Fetch Todos App Project Overview
 
 - Simple React app which fetches a list of fake todos from the json placeholder API, displays a loading message as they come in, and lets you delete from the page by clicking on each one
 - Combined TypeScript with React and Redux tools to utilize type definitions and annotations

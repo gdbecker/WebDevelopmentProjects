@@ -1,4 +1,4 @@
-## 10 - Arrays Reduce
+## 10 - Array.reduce
 
 ### Topics Covered
 

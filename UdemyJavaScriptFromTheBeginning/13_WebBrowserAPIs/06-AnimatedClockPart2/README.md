@@ -1,4 +1,4 @@
-## 06 - Animated Clock Part 2
+## 06 - Animated Clock Mini-Project Part 2
 
 ### Topics Covered
 

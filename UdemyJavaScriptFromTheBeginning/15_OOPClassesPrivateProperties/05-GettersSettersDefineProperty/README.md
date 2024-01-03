@@ -1,4 +1,4 @@
-## 05 - Getters and Setters Define Property
+## 05 - Getters and Setters with defineProperty()
 
 ### Topics Covered
 

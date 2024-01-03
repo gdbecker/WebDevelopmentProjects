@@ -1,4 +1,4 @@
-## 10 - Window Events
+## 10 - Page Loading and Window Events
 
 ### Topics Covered
 

@@ -1,4 +1,4 @@
-## 13 - Speech Recognition
+## 13 - Speech Recognition API
 
 ### Topics Covered
 

@@ -1,4 +1,4 @@
-## 02 - Map Position
+## 02 - Show Location on Map
 
 ### Topics Covered
 

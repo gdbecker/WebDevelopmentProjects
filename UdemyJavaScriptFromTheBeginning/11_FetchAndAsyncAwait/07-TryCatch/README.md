@@ -1,4 +1,4 @@
-## 07 - Try...Catch
+## 07 - Try...Catch Statements
 
 ### Topics Covered
 

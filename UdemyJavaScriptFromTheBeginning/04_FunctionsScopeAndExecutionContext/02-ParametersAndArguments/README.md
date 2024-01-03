@@ -1,4 +1,4 @@
-## 02 - Parameters and Arguments
+## 02 - More on Parameters and Arguments
 
 ### Topics Covered
 

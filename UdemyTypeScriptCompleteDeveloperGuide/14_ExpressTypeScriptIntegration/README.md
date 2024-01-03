@@ -1,10 +1,10 @@
 ## Express and TypeScript Integration
 
-### [Live Demo](https://typescript-authentication-app.gdbecker.repl.co/)
+### [Live Demo: Authentication App V1](https://typescript-authentication-app.gdbecker.repl.co/)
 
 !["HomePage"](HomePage.png)
 
-### Authentication app Project Overview
+### Authentication App V1 Project Overview
 
 - Simple authentication app with express: log users in to see a page on the protected route, and keep unauthenticated users from seeing that page
 - This version is constructed with the minimal amount of type annotations needed, and uses the first approach from "TS with JS Libraries"

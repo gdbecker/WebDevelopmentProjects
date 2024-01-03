@@ -1,4 +1,4 @@
-## 09 - Freezing Sealing Properties
+## 09 - Sealing and Freezing Objects
 
 ### Topics Covered
 

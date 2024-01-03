@@ -1,4 +1,4 @@
-## 03 - Event Object
+## 03 - The Event Object
 
 ### Event Object Properties
 

@@ -1,10 +1,10 @@
 ## Advanced Express and TypeScript Integration
 
-### [Live Demo](https://typescript-authentication-app-v2.gdbecker.repl.co/)
+### [Live Demo: Authentication App V2](https://typescript-authentication-app-v2.gdbecker.repl.co/)
 
 !["HomePage"](HomePage.png)
 
-### Authentication app V2 Project Overview
+### Authentication App V2 Project Overview
 
 - Simple authentication app with express: log users in to see a page on the protected route, and keep unauthenticated users from seeing that page
 - This version takes the third approach from the below list, and uses decorators to make TypeScript work with express as much as possible via a classes structure

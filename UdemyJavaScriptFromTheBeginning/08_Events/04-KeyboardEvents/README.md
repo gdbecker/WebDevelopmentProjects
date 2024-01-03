@@ -1,4 +1,4 @@
-## 04 - Keyboard Events
+## 04 - Keyboard Events and Key Properties
 
 ### Topics Covered
 

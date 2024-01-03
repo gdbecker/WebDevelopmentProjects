@@ -1,4 +1,4 @@
-## 12 - Replacing Elements
+## 12 - Replace Elements
 
 ### Topics Covered
 

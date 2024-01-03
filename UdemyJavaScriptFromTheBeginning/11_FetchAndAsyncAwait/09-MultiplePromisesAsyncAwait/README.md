@@ -1,4 +1,4 @@
-## 09 - Multiple Promises Async Await
+## 09 - Multiple Promises with Async and Await
 
 ### Topics Covered
 

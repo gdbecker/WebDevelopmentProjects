@@ -1,10 +1,10 @@
 ## More on Design Patterns
 
-### [Live Demo](https://replit.com/@gdbecker/TypeScript-Sort-App)
+### [Live Demo: Sorting App](https://replit.com/@gdbecker/TypeScript-Sorting-App)
 
 !["HomePage"](HomePage.png)
 
-### Sorting app Project Overview
+### Sorting App Project Overview
 
 - Learning more design patterns with interfaces and classes, with this simple sorting app, from least to greatest
 - Make one interface to control sorting on multiple types of data structures

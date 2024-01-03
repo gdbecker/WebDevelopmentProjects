@@ -1,4 +1,4 @@
-## 12 - Math Object
+## 12 - The Math Object
 
 ### Topics Covered
 

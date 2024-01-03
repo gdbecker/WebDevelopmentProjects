@@ -1,4 +1,4 @@
-## 08 - Callback to Promise
+## 08 - Callback to Promise Refactor
 
 ### Topics Covered
 

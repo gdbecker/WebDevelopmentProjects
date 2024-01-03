@@ -1,4 +1,4 @@
-## 04 - Getters and Setters for Classes
+## 04 - Getters and Setters with Classes
 
 ### Topics Covered
 

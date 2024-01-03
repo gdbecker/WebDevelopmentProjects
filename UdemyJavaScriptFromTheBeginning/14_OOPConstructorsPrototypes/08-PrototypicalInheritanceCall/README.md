@@ -1,4 +1,4 @@
-## 08 - Prototypical Inheritance and Call
+## 08 - Prototypical Inheritance and call()
 
 ### Topics Covered
 

@@ -1,4 +1,4 @@
-## 08 - List Item InnerHTML vs Create Element
+## 08 - InnerHTML vs createElement()
 
 ### Topics Covered
 

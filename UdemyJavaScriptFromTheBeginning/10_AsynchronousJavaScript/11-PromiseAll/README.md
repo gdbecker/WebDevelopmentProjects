@@ -1,4 +1,4 @@
-## 11 - Promise All
+## 11 - promise.all()
 
 ### Topics Covered
 

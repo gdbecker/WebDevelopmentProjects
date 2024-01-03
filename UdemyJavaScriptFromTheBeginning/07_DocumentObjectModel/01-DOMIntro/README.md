@@ -1,4 +1,4 @@
-## 01 - DOM Intro
+## 01 - Intro to the DOM
 
 ### What is the Document Object Model?
 

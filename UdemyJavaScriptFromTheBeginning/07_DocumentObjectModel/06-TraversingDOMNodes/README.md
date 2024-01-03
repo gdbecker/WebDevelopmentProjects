@@ -1,4 +1,4 @@
-## 06 - Traversing DOM Nodes
+## 06 - Traversing the DOM - Nodes
 
 ### DOM Node Types
 

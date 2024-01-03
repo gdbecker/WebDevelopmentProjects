@@ -1,4 +1,4 @@
-## 01 - Console
+## 01 - Using the Console
 
 ### Topics Covered
 

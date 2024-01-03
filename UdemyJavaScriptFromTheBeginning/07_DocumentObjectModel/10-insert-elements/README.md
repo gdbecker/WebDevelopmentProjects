@@ -1,4 +1,4 @@
-## 10 - Insert Elements
+## 10 - Insert Elements, Text, and HTML
 
 ### Topics Covered
 

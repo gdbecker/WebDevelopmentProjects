@@ -1,4 +1,4 @@
-## 04 - Object Properties
+## 04 - Working with Object Properties
 
 ### Topics Covered
 

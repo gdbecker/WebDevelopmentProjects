@@ -1,4 +1,4 @@
-## 03 - DOM Selectors Single Elements
+## 03 - DOM Selectors - Single Elements
 
 ### Topics Covered
 

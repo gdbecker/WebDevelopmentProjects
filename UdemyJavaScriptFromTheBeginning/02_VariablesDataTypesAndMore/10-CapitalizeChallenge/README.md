@@ -1,4 +1,4 @@
-## 10 - Capitalize Challenge
+## 10 - Capitalization Challenge
 
 We have arrived at our first challenge. Every once in a while I'm going to ask you to figure out a problem or do something using what we have already learned. I will not ask you to do a challenge that involves doing something that we have not yet gone over.
 

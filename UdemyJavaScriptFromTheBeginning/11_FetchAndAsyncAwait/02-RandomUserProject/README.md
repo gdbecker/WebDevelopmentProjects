@@ -1,4 +1,4 @@
-## 02 - Random User Project
+## 02 - Random User Mini-Project
 
 ### Topics Covered
 

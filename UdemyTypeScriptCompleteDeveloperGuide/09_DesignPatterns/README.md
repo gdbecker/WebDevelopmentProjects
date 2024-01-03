@@ -1,10 +1,10 @@
 ## Design Patterns with TypeScript
 
-### [Live Demo](https://typescript-map-app.gdbecker.repl.co/)
+### [Live Demo: Map App](https://typescript-map-app.gdbecker.repl.co/)
 
 !["HomePage"](HomePage.png)
 
-### Map app Project Overview
+### Map App Project Overview
 
 - Starting to learn design patterns with TypeScript with a simple map app
 - Randomly generate User and Company objects and then plot on a map

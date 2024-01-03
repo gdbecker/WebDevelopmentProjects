@@ -1,4 +1,4 @@
-## 11 - Arrays Challenges
+## 11 - Array Method Challenges
 
 ### Challenge 1
 

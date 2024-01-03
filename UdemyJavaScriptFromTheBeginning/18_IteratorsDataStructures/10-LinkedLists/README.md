@@ -1,4 +1,4 @@
-## 10 - LinkedLists
+## 10 - Linked Lists
 
 ### Topics Covered
 

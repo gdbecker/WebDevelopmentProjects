@@ -1,4 +1,4 @@
-## 07 - Poll Project
+## 07 - Poll Mini-Project
 
 ### Topics Covered
 

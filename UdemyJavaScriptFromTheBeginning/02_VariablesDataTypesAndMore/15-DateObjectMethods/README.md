@@ -1,4 +1,4 @@
-## 15 - Date Object Methods
+## 15 - Date Methods and DateTimeFormat API
 
 ### Topics Covered
 

@@ -1,10 +1,10 @@
 ## Reusable Code
 
-### [Live Demo](https://replit.com/@gdbecker/TypeScript-Football-Matches-App)
+### [Live Demo: Football Matches App](https://replit.com/@gdbecker/TypeScript-Football-Matches-App)
 
 !["HomePage"](HomePage.png)
 
-### Football Matches app Project Overview
+### Football Matches App Project Overview
 
 - Load the football.csv file into the project, parse and then analyze what's inside to produce a report
 - Used an inheritance approach first, and then refactored into composition for the final design

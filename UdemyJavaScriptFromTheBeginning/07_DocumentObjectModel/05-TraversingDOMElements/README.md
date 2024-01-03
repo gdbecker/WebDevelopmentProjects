@@ -1,4 +1,4 @@
-## 05 - Traversing DOM Elements
+## 05 - Traversing the DOM - Elements
 
 ### Topics Covered
 

@@ -508,7 +508,6 @@ function init() {
 			break;
 	}
 	
-
 	highlightActiveLink();
 }
 

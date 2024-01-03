@@ -1,10 +1,10 @@
 ## React Functional Components with TypeScript
 
-### [Live Demo](https://typescript-name-list-app.gdbecker.repl.co/)
+### [Live Demo: Name List App](https://typescript-name-list-app.gdbecker.repl.co/)
 
 !["HomePage"](HomePage.png)
 
-### Name List app Project Overview
+### Name List App Project Overview
 
 - Simple React app with three components:
   - Guest List component which allows you to view a list of people, type in the name of someone you want to add, and then click to add to the on-screen list

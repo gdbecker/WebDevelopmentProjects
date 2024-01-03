@@ -1,4 +1,4 @@
-## 03 - Fetch Options
+## 03 - Fetch Options - Method, Body, Headers
 
 ### Topics Covered
 

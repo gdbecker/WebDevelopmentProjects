@@ -1,4 +1,4 @@
-## 07 - Audio API
+## 07 - Web Audio API
 
 ### Topics Covered
 

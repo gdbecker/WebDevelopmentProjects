@@ -1,4 +1,4 @@
-## 04 - Arrays Challenges
+## 04 - Array Challenges
 
 Now that we have gone over some basic array stuff, let's try some simple challenges. I would suggest trying these using just what you remember from the past sections, but if you need to look back, that's fine as well.
 

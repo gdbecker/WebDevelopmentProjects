@@ -1,4 +1,4 @@
-## 07 - Object Create
+## 07 - Object.create
 
 ### Topics Covered
 

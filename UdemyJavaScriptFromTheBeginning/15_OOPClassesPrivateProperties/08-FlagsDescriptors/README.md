@@ -1,4 +1,4 @@
-## 08 - Flags Descriptors
+## 08 - Property Flags and Descriptors
 
 ### Topics Covered
 

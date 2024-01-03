@@ -1,4 +1,4 @@
-## 08 - Async Await Error Handling
+## 08 - Async and Await Error Handling
 
 ### Topics Covered
 

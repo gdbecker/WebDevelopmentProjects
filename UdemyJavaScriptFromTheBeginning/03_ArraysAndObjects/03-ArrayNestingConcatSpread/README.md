@@ -1,4 +1,4 @@
-## 03 - Array Nesting, Concatenation, and Spread
+## 03 - Nesting, Concat, and Spread Operators
 
 ### Topics Covered
 

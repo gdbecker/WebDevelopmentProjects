@@ -1,4 +1,4 @@
-## 04 - AJAX and XHR
+## 04 - AJAX and XHR Object
 
 ### What is HTTP?
 

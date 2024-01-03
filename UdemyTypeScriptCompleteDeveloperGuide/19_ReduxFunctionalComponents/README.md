@@ -1,10 +1,10 @@
 ## Redux with Functional Components and TypeScript
 
-### [Live Demo](https://typescript-npm-package-search-app.gdbecker.repl.co)
+### [Live Demo: NPM Package Search App](https://typescript-npm-package-search-app.gdbecker.repl.co)
 
 !["HomePage"](HomePage.png)
 
-### Name List app Project Overview
+### NPM Package Search App App Project Overview
 
 - Simple React app to practice combining TypeScript with redux-based components
   - Input the name of an NPM package to search for, and clicking on 'Submit' will pull up the list of packages that match or are closely related to the query, pulling from the NPM API for package search

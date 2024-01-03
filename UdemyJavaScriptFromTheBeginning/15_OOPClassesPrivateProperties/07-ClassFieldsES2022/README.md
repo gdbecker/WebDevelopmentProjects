@@ -1,4 +1,4 @@
-## 07 - Class Fields as of ES2022
+## 07 - ES2022 Private Class Fields
 
 ### Topics Covered
 
