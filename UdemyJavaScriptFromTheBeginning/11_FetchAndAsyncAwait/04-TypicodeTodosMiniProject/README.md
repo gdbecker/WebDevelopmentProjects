@@ -1,5 +1,9 @@
 ## 04 - Typicode Todos Mini-Project
 
+### [Live Demo](https://js-typicode-todos-gdbecker.netlify.app/)
+
+!["Page"](./Page.png)
+
 ### Overview
 
 - Practice using fetch() methods: GET, PUT, DELETE

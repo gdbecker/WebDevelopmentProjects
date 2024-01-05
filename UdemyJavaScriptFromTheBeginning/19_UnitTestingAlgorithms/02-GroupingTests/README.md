@@ -2,4 +2,4 @@
 
 ### Topics Covered
 
--
+- Making a test suite with "describe()" for the fizzBuzz algorithm

@@ -1,5 +1,9 @@
 ## Section 19: Unit Testing Algorithms
 
+### What is Unit Testing?
+
+- A way of testing individual pieces of code called 'units'
+
 ### Topics Covered in this Section
 
 - [Getting Started with Jest](./01-JestSetup/)
