@@ -3,6 +3,9 @@
 # npm modules
 node_modules/
 
+# environment variables
+**/.env
+
 # misc
 .DS_Store
 .env.local
