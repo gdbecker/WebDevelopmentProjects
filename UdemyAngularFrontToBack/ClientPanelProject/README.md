@@ -31,6 +31,10 @@ Followed along with Brad to build the ClientPanel app. View all clients on the m
 
 ### App Notes
 
+#### globally install Angular CLI
+
+- npm install -g @angular/cli
+
 #### Set up Angular project
 
 - ng new --no-standalone clientpanel
