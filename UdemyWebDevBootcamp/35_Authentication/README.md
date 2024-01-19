@@ -1,17 +1,6 @@
-## 35 - Authentication and Security
+## 35 - Authentication
 
-### [Demo: Authentication](https://authenticationapp.gdbecker.repl.co/)
+### Projects in this Section
 
-Followed along with Angela to make a simple app to authenticate users to view a "secrets" page. Uses Passport and express-sessions, Google sign-in capability, and an SQLite database to persist users' info. Hashes all passwords with a salt.
-
-#### Home Page
-
-!["HomePage"](./01-HomePage.png)
-
-#### Login Page
-
-!["LoginPage"](./02-LoginPage.png)
-
-#### Secrets Page
-
-!["SecretsPage"](./03-SecretsPage.png)
+- [Secrets App - New Version (with PostgreSQL)](<./Secrets%20App%20(New%20Version)/>)
+- [Secrets App - Old Version (with SQLite)](<./Secrets%20App%20(Old%20Version)/>)
