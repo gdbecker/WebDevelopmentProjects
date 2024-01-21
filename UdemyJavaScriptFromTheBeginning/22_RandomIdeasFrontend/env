@@ -1,0 +1,2 @@
+MONGO_URL=mongodb+srv://garrettdbecker:Fj8GbEGHDT7S3XhN@cluster0.aafnyrz.mongodb.net/randomideas?retryWrites=true&w=majority
+PORT=5000
