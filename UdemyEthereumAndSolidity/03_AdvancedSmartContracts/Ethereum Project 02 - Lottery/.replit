@@ -1,0 +1,7 @@
+modules = ["nodejs-20:v8-20230920-bd784b9"]
+# run = ["node compile.js", "npm run test"]
+run = """
+node compile.js
+npm run test
+node deploy.js
+"""
