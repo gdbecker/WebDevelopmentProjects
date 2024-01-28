@@ -10,7 +10,7 @@ function Navigation() {
       <div className="flex items-center justify-between">
         <a class="flex items-center justify-center" href="/">
           <h1 className="font-spaceGroteskBold tracking-wide text-sm text-white md:text-lg">Web Development</h1>
-          <TbWorldCode className="w-10 mr-3 text-white text-lg border-offWhite border-r-2" />
+          <TbWorldCode className="w-10 mr-3 text-white text-2xl border-offWhite border-r-2" />
         </a>
         <h1 className="tracking-wider text-sm text-lightGreen md:text-lg">Showcase</h1>
       </div>

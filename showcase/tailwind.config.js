@@ -42,7 +42,6 @@ module.exports = {
       "PostgreSQL": "#336791",
       "MongoDB": "#00684A",
       "Design": "#304D30",
-
     },
     extend: {
       fontFamily: {
