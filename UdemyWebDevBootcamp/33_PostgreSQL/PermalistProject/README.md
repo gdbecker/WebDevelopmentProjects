@@ -1,6 +1,6 @@
 ## Permalist Project
 
-### [Demo: Permalist Project](https://permalistproject.gdbecker.repl.co/)
+### [Demo: Permalist Project](https://replit.com/@gdbecker/PermalistProject)
 
 Practiced using a PostgreSQL database and modifying another engineer's existing code for this "Permalist" permanent list todo project. The aim here was to examine existing code to add additional functionality:
 

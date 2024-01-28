@@ -10,13 +10,9 @@ function Navigation() {
       <div className="flex items-center justify-between">
         <a class="flex items-center justify-center" href="/">
           <h1 className="font-spaceGroteskBold tracking-wide text-sm text-white md:text-lg">Web Development</h1>
-          {/* <Image 
-            src=<TbWorldCode />
-            alt="Logo"
-            className="pr-2 mr-2 w-36 border-offWhite border-r-2 md:w-48"
-          /> */}
+          <TbWorldCode className="w-10 mr-3 text-white text-lg border-offWhite border-r-2" />
         </a>
-        <h1 className="tracking-wider text-sm text-darkPurple md:text-lg">Showcase</h1>
+        <h1 className="tracking-wider text-sm text-lightGreen md:text-lg">Showcase</h1>
       </div>
       <a class="flex items-center justify-center" href="https://github.com/gdbecker/WebDevelopmentProjects" target="_blank">
         <Image 

@@ -1,6 +1,6 @@
 ## 09 - Flexbox
 
-### [Demo: Pricing Table](https://pricingtable.gdbecker.repl.co/)
+### [Demo: Pricing Table](https://replit.com/@gdbecker/PricingTable)
 
 Practiced CSS flexbox styles with a pricing table page. Used a media query tag for screen size responsiveness. Also practiced basic CSS styling for the pricing cards.
 

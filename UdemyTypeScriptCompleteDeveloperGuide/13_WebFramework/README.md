@@ -1,6 +1,6 @@
 ## Let's Build a Web Framework
 
-### [Live Demo: Web Framework](https://typescript-build-a-web-framework.gdbecker.repl.co/)
+### [Live Demo: Web Framework](https://replit.com/@gdbecker/TypeScript-Build-a-Web-Framework)
 
 !["HomePage"](HomePage.png)
 

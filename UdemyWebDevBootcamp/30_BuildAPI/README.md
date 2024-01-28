@@ -19,7 +19,7 @@
 
 ---
 
-### [Demo: Build a Blog API](https://blogapi.gdbecker.repl.co/)
+### [Demo: Build a Blog API](https://replit.com/@gdbecker/BlogAPI)
 
 Built our own API for a blog website: GET all posts, GET a specific POST, PATCH an existing post, or delete one. Each blog has a title, main body, and author.
 

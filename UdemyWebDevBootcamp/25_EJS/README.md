@@ -2,7 +2,7 @@
 
 ### Band Generator Project
 
-### [Demo: Band Name Generator](https://bandgenerator.gdbecker.repl.co/)
+### [Demo: Band Name Generator](https://replit.com/@gdbecker/BandGenerator)
 
 Practicing EJS, partials, templating to make a random band/company name generator.
 

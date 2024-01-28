@@ -153,15 +153,11 @@ function Home() {
       <main className="flex flex-col items-center justify-center w-full h-full p-10 bg-darkGreen md:items-center 2xl:px-36">
 
         <h1 className="pb-9 font-spaceGroteskRegular text-justify text-white leading-7 md:w-[50vw]">
-          Here is a collection of solutions I created for a variety of challenges from a platform that provides 
-          an awesome way to grow in frontend development skills. I really enjoy how each project's approach is a lot like a real-life 
-          scenario: you're given a brief that contains core design goals and styles, sometimes Sketch or Figma files for a greater 
-          level of detail, and then it's up to you to deliver a solution that as closely matches what's needed as possible. There is a 
-          lot of flexibility to build however you want. Each of these projects within this showcase pushed me for different reasons, to 
-          stretch what I thought I was capable of, and to challenge me to keep learning and growing - aiming to get better everyday with 
-          practice.
-          
-          Take a look and explore the projects I've worked on, view more details in Github, my solutions on Frontend Mentor and play with a live demo!
+          Over the past few years, I've been exploring a lot about web development and teaching myself different languages, frontend
+          and backend frameworks, as well as different database tools. It's been such a fun journey and reinforced my love for 
+          life-long learning, and I wanted to have a central place to share what I've worked on from various courses I took (from following
+          along to independent work) as well as personal projects I've built from the newly acquired tools and skills. Take a look at
+          the various apps and websites I've built, play around with a demo and check out more details on my Github.
         </h1>
 
         <div className="flex flex-col w-full py-5 justify-between md:flex-row md:min-h-fit">

@@ -28,7 +28,7 @@ function ProjectCard({ id, img, title, group, code_url, demo_url, tools }) {
   return (
     <div className="flex w-full max-h-fit flex-col rounded-md overflow-hidden shadow-lightGreen shadow-[0_0px_3px]" x-intersect="$el.classList.add('fade-in-bottom')">
       <div 
-        className={"flex flex-row h-44 bg-top bg-no-repeat bg-cover"}
+        className={"flex flex-row h-44 bg-top bg-no-repeat bg-cover bg-project"}
         style={{
           backgroundImage: `url(${ img }.jpg)`
         }}
@@ -36,16 +36,16 @@ function ProjectCard({ id, img, title, group, code_url, demo_url, tools }) {
       </div>
       <div className="flex-auto grid grid-cols-1 px-5 py-3 pb-1 text-darkBlue bg-white">
         <div className="flex flex-row items-center justify-between">
-          <a href={demo_url} target="_blank" className="py-2 text-xl font-spaceGroteskRegular hover:underline lg:text-md">{title}</a>
+          <a href={demo_url} target="_blank" className="py-2 text-xl font-spaceGroteskMedium hover:underline lg:text-md">{title}</a>
           
         </div>
         <div className="grid grid-cols-2 items-end justify-between py-3 text-md lg:text-sm">
           <div className="flex flex-row items-end justify-left w-full">
-            <Link href={code_url} target="_blank" className={`flex flex-row text-darkBlue text-lg ${getDetails('hover', tools[0])}`}><FaGithub /> <p className="text-sm pl-2">Learn More</p></Link>
+            <Link href={code_url} target="_blank" className={`flex flex-row font-spaceGroteskRegular text-darkBlue text-lg ${getDetails('hover', tools[0])}`}><FaGithub /> <p className="text-sm pl-2">Learn More</p></Link>
           </div>
            
            <div className="flex flex-col items-end justify-end w-full">
-            <div className="flex flex-wrap items-end justify-end">
+            <div className="flex flex-wrap items-center justify-end">
               {tools.map((t) => getLabel(t))}
             </div>
           </div>

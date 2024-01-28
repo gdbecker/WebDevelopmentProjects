@@ -1,6 +1,6 @@
 ## Express and TypeScript Integration
 
-### [Live Demo: Authentication App V1](https://typescript-authentication-app.gdbecker.repl.co/)
+### [Live Demo: Authentication App V1](https://replit.com/@gdbecker/TypeScript-Authentication-App)
 
 !["HomePage"](HomePage.png)
 

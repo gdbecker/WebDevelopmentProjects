@@ -1,6 +1,6 @@
 ## More on Design Patterns
 
-### [Live Demo: Sorting App](https://replit.com/@gdbecker/TypeScript-Sorting-App)
+### [Live Demo: Sorting App](https://replit.com/@gdbecker/TypeScript-NPM-Package-Search-App)
 
 !["HomePage"](HomePage.png)
 
