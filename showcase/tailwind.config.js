@@ -41,6 +41,7 @@ module.exports = {
       "SQLite": "#044A64",
       "PostgreSQL": "#336791",
       "MongoDB": "#00684A",
+      "Firebase": "#FFCA28",
       "Design": "#304D30",
     },
     extend: {

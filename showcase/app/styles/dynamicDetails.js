@@ -23,6 +23,7 @@ import { SiDjango as Django } from "react-icons/si";
 import { SiSqlite as SQLite } from "react-icons/si";
 import { BiLogoPostgresql as PostgreSQL } from "react-icons/bi";
 import { SiMongodb as MongoDB } from "react-icons/si";
+import { IoLogoFirebase as Firebase } from "react-icons/io5";
 
 import { MdOutlineDesignServices as Design } from "react-icons/md";
 
@@ -51,6 +52,7 @@ const details = {
     'SQLite': <SQLite />,
     'PostgreSQL': <PostgreSQL />,
     'MongoDB': <MongoDB />,
+    'Firebase': <Firebase />,
     'Design': <Design />,
   },
   'toolText': {
@@ -77,6 +79,7 @@ const details = {
     'SQLite': 'text-SQLite',
     'PostgreSQL': 'text-PostgreSQL',
     'MongoDB': 'text-MongoDB',
+    'Firebase': 'text-Firebase',
     'Design': 'text-Design',
   },
   'hover': {
@@ -103,6 +106,7 @@ const details = {
     'SQLite': 'hover:text-SQLite',
     'PostgreSQL': 'hover:text-PostgreSQL',
     'MongoDB': 'hover:text-MongoDB',
+    'Firebase': 'hover:text-Firebase',
     'Design': 'hover:text-Design',
   }
 }
