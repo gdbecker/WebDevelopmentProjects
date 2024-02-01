@@ -1,5 +1,21 @@
 ## Section 07 - Advanced Multi-Page Frontends
 
+## [Live Demo: CrowdCoin Contract with Next]()
+
+#### Home Page
+
+!["HomePage"](./HomePage.png)
+
+#### Campaign Details
+
+!["HomePage"](./CampaignDetails.png)
+
+#### Requests Page
+
+!["HomePage"](./RequestsPage.png)
+
+Connecting our Kickstart smart contract from the previous section with Next.js for a fully developed frontend app. Rebranded as CrowdCoin - jump here to add a new campaign, send donations, add requests, approve and finalize all here!
+
 ### Routing for CrowdCoin App
 |Path|We should show...|
 |-|-|

@@ -1,6 +1,6 @@
 ## Section 04 - Building Interactive Frontends
 
-## [Live Demo: Lottery Contract with React](https://replit.com/@gdbecker/Ethereum-Project-03-Lottery-with-React)
+## [Live Demo: Lottery Contract with React]()
 
 #### Home Page
 
