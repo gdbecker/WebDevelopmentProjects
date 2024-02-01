@@ -1,6 +1,6 @@
 ## Section 07 - Advanced Multi-Page Frontends
 
-## [Live Demo: CrowdCoin Contract with Next]()
+## [Live Demo: CrowdCoin Contract with Next](https://ethereum-crowdcoin-gdbecker.netlify.app/)
 
 #### Home Page
 
