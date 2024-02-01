@@ -1,6 +1,6 @@
 ## Section 04 - Building Interactive Frontends
 
-## [Live Demo: Lottery Contract with React]()
+## [Live Demo: Lottery Contract with React](https://ethereum-lottery-gdbecker.netlify.app/)
 
 #### Home Page
 
