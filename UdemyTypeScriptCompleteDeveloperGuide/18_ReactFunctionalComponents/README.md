@@ -1,6 +1,6 @@
 ## React Functional Components with TypeScript
 
-### [Live Demo: Name List App](https://replit.com/@gdbecker/TypeScript-Name-List-App)
+### [Live Demo: Name List App](https://type-script-name-list-app-gdbecker.replit.app/)
 
 !["HomePage"](HomePage.png)
 

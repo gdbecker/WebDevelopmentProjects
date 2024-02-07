@@ -1,6 +1,6 @@
 ## 34 - Capstone Project - BookNotes
 
-### [Demo: BookNotes](https://replit.com/@gdbecker/BookNotes)
+### [Demo: BookNotes](https://book-notes-gdbecker.replit.app/)
 
 Capstone project for the PostgreSQL module: BookNotes. BookNotes is an app to help you keep track of your thoughts, impressions, or any notes for books you've read (or want to!). Here you can add a new book to the site by adding in the ISBN-10 to the input form at the top, and for each book you can edit your entry, delete it or delete the book and your notes at once.
 

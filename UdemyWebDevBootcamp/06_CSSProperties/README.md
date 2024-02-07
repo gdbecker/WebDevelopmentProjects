@@ -1,6 +1,6 @@
 ## 06 - CSS Properties
 
-### [Demo: Motivational Poster Website](https://replit.com/@gdbecker/MotivationalPosterWebsite)
+### [Demo: Motivational Poster Website](https://motivational-poster-website-gdbecker.replit.app/)
 
 Practice mini project for basic HTML and CSS: motivational poster website.
 

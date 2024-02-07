@@ -1,6 +1,6 @@
 ## 29 - Capstone Project - Use a Public API
 
-### [Demo: Weather API Project](https://replit.com/@gdbecker/WeatherAPIProject)
+### [Demo: Weather API Project](https://weather-api-project-gdbecker.replit.app/)
 
 Enter a city and receive back the current weather in degrees and general description. Uses the OpenWeatherAPI.
 

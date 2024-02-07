@@ -1,6 +1,6 @@
 ## 13 - Personal Site Project
 
-### [Demo: Personal Site](https://replit.com/@gdbecker/041-044-Personal-Site-CSS)
+### [Demo: Personal Site](https://041-044-personal-site-css-gdbecker.replit.app/)
 
 The goal of this project is to create a personal website that showcases your skills, experiences, and interests. The website should be visually appealing and easy to navigate, while also providing relevant information about you and your background. The site should be built entirely with HTML and CSS, with no JavaScript code included.
 

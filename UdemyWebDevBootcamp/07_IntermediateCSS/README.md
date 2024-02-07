@@ -1,6 +1,6 @@
 ## 07 - Intermediate CSS
 
-### [Demo: CSS Flag](https://replit.com/@gdbecker/CSSLaosFlag)
+### [Demo: CSS Flag](https://css-laos-flag-gdbecker.replit.app/)
 
 Practice mini project for basic HTML and CSS: recreate the country flag of Laos.
 

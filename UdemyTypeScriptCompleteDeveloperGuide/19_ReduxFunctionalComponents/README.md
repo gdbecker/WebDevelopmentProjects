@@ -1,6 +1,6 @@
 ## Redux with Functional Components and TypeScript
 
-### [Live Demo: NPM Package Search App](https://typescript-npm-package-search-app.gdbecker.repl.co)
+### [Live Demo: NPM Package Search App](https://type-script-npm-package-search-app-gdbecker.replit.app/)
 
 !["HomePage"](HomePage.png)
 

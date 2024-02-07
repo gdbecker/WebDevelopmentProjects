@@ -1,6 +1,6 @@
 ## React and Redux Class Components with TypeScript
 
-### [Live Demo: Fetch Todos App](https://replit.com/@gdbecker/TypeScript-Fetch-Todos-App)
+### [Live Demo: Fetch Todos App](https://type-script-fetch-todos-app-gdbecker.replit.app/)
 
 !["HomePage"](HomePage.png)
 
