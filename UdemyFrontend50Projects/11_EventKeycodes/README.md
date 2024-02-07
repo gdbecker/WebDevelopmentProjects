@@ -1,6 +1,6 @@
 ## 11_ Event Keycodes
 
-What it does
+Press any keyboard key and display its value, key code, and code.
 
 ## [Live Demo: Event Keycodes](https://11-event-keycodes-gdbecker.netlify.app/)
 
