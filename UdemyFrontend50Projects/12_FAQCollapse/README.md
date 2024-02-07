@@ -1,6 +1,6 @@
 ## 12_ FAQ Collapse
 
-What it does
+Expand/collapse FAQ boxes.
 
 ## [Live Demo: FAQ Collapse](https://12-faq-collapse-gdbecker.netlify.app/)
 
