@@ -42,6 +42,9 @@ module.exports = {
       "PostgreSQL": "#336791",
       "MongoDB": "#00684A",
       "Firebase": "#FFCA28",
+      "Ethereum": "#8C8C8C",
+      "Solidity": "#2A247C",
+      "Web3": "#092E20",
       "Design": "#304D30",
     },
     extend: {

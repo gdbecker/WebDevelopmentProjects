@@ -25,6 +25,10 @@ import { BiLogoPostgresql as PostgreSQL } from "react-icons/bi";
 import { SiMongodb as MongoDB } from "react-icons/si";
 import { IoLogoFirebase as Firebase } from "react-icons/io5";
 
+import { FaEthereum as Ethereum } from "react-icons/fa";
+import { SiSolidity as Solidity } from "react-icons/si";
+import { SiWeb3Dotjs as Web3 } from "react-icons/si";
+
 import { MdOutlineDesignServices as Design } from "react-icons/md";
 
 const details = {
@@ -53,6 +57,9 @@ const details = {
     'PostgreSQL': <PostgreSQL />,
     'MongoDB': <MongoDB />,
     'Firebase': <Firebase />,
+    'Ethereum': <Ethereum />,
+    'Solidity': <Solidity />,
+    'Web3': <Web3 />,
     'Design': <Design />,
   },
   'toolText': {
@@ -80,6 +87,9 @@ const details = {
     'PostgreSQL': 'text-PostgreSQL',
     'MongoDB': 'text-MongoDB',
     'Firebase': 'text-Firebase',
+    'Ethereum': 'text-Ethereum',
+    'Solidity': 'text-Solidity',
+    'Web3': 'text-Web3',
     'Design': 'text-Design',
   },
   'hover': {
@@ -107,6 +117,9 @@ const details = {
     'PostgreSQL': 'hover:text-PostgreSQL',
     'MongoDB': 'hover:text-MongoDB',
     'Firebase': 'hover:text-Firebase',
+    'Ethereum': 'hover:text-Ethereum',
+    'Solidity': 'hover:text-Solidity',
+    'Web3': 'hover:text-Web3',
     'Design': 'hover:text-Design',
   }
 }
