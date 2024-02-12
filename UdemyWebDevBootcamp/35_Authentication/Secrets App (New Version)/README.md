@@ -1,6 +1,6 @@
 ## Secrets App - Old Version with SQLite
 
-### [Demo: Secrets App](https://secrets-app-v-2-gdbecker.replit.app/)
+### [Demo: Secrets App](https://replit.com/@gdbecker/Secrets-App-V2)
 
 Followed along with Angela to make a simple app to authenticate users to view a "secrets" page. Uses Passport and express-sessions, Google sign-in capability, and a PostgreSQL database to persist users' info. Hashes all passwords with a salt.
 
