@@ -1,6 +1,6 @@
 ## 14_ Animated Navigation
 
-What it does
+Expand/collapse a navigation menu with an animation effect.
 
 ## [Live Demo: Animated Navigation](https://14-animated-navigation-gdbecker.netlify.app/)
 
