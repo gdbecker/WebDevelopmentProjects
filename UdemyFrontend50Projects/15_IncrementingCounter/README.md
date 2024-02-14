@@ -1,6 +1,6 @@
 ## 15_ Incrementing Counter
 
-What it does
+Widget that counts up to your number of Twitter, YouTube, and Facebook followers.
 
 ## [Live Demo: Incrementing Counter](https://15-incrementing-counter-gdbecker.netlify.app/)
 
