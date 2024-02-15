@@ -1,6 +1,6 @@
 ## 18_ Background Slider
 
-What it does
+Click the left and right arrow buttons to change the background and forefront images.
 
 ## [Live Demo: Background Slider](https://18-background-slider-gdbecker.netlify.app/)
 
