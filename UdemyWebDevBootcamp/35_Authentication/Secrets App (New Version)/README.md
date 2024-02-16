@@ -1,11 +1,13 @@
-## Secrets App - Old Version with SQLite
+## Secrets App - New Version with PostgreSQL
 
-### [Demo: Secrets App](https://replit.com/@gdbecker/Secrets-App-V2)
+### [Demo: Secrets App](https://secrets-app-v-2-gdbecker.replit.app/)
 
 Followed along with Angela to make a simple app to authenticate users to view a "secrets" page. Uses Passport and express-sessions, Google sign-in capability, and a PostgreSQL database to persist users' info. Hashes all passwords with a salt.
 
 Username: example@email.com
-Password: Password
+Password: Password123
+
+Note: For deployment I used an SQLite database since Replit's costs for using one of their PostgreSQL databases connected to Neon was too expensive. Check out the specific [Index PostgreSQL.js](./index%20postgresql.js) file for PostgreSQL configuration.
 
 #### Home Page
 

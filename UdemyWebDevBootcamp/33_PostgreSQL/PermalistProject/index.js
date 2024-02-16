@@ -1,6 +1,5 @@
-import express from "express";
-import bodyParser from "body-parser";
-import pg from "pg";
+const express = require("express");
+const bodyParser = require("body-parser");
 
 const app = express();
 const port = 3000;
@@ -8,25 +7,25 @@ const port = 3000;
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
-const db = new pg.Client({
-  user: "neon",
-  host: "ep-dry-brook-00301663.us-east-2.aws.neon.tech",
-  database: "neondb",
-  password: "0fSkdjg7NqBh",
-  port: 5432,
-  ssl: true,
-});
+// SQLite database packages
+const sqlite3 = require("sqlite3");
+const sqlite = require("sqlite");
 
-db.connect();
+// SQLite database setup
+const dbPromise = sqlite.open({
+  filename: "items.db",
+  driver: sqlite3.Database,
+});
 
 app.get("/", async (req, res) => {
   // date info
   const date = new Date();
 
   // get items from the database
-  const itemsQuery = await db.query("SELECT * FROM items ORDER BY title ASC");
+  const db = await dbPromise;
+  const itemsQuery = await db.all("SELECT * FROM items ORDER BY title ASC");
   let items = [];
-  for (let row of itemsQuery.rows) {
+  for (let row of itemsQuery) {
     items.push({
       id: row.id,
       title: row.title,
@@ -42,7 +41,8 @@ app.get("/", async (req, res) => {
 app.post("/add", async (req, res) => {
   const title = req.body.newItem;
 
-  await db.query("INSERT INTO items (title) VALUES ($1)", [title]);
+  const db = await dbPromise;
+  await db.run("INSERT INTO items (title) VALUES (?)", [title]);
 
   res.redirect("/");
 });
@@ -51,7 +51,8 @@ app.post("/edit", async (req, res) => {
   const itemId = req.body.updatedItemId;
   const newTitle = req.body.updatedItemTitle;
 
-  await db.query("UPDATE items SET title = $1 WHERE id = $2", [
+  const db = await dbPromise;
+  await db.run("UPDATE items SET title = ? WHERE id = ?", [
     newTitle,
     itemId,
   ]);
@@ -62,7 +63,8 @@ app.post("/edit", async (req, res) => {
 app.post("/delete", async (req, res) => {
   const itemId = req.body.deleteItemId;
 
-  await db.query("DELETE FROM items WHERE id = $1", [itemId]);
+  const db = await dbPromise;
+  await db.run("DELETE FROM items WHERE id = ?", [itemId]);
 
   res.redirect("/");
 });

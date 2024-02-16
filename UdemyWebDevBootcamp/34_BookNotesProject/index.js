@@ -1,6 +1,5 @@
-import express from "express";
-import bodyParser from "body-parser";
-import pg from "pg";
+const express = require("express");
+const bodyParser = require("body-parser");
 
 const app = express();
 const port = 3000;
@@ -8,16 +7,15 @@ const port = 3000;
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
-const db = new pg.Client({
-  user: "neon",
-  host: "ep-winter-glitter-77348297.us-east-2.aws.neon.tech",
-  database: "neondb",
-  password: "sEuA1gOntU4e",
-  port: 5432,
-  ssl: true,
-});
+// SQLite database packages
+const sqlite3 = require("sqlite3");
+const sqlite = require("sqlite");
 
-db.connect();
+// SQLite database setup
+const dbPromise = sqlite.open({
+  filename: "booknotes.db",
+  driver: sqlite3.Database,
+});
 
 // variable trackers
 let errorMessage = "";
@@ -27,14 +25,16 @@ app.get("/", async (req, res) => {
   const date = new Date();
 
   // get items from the database
-  const queryBooks = await db.query("SELECT * FROM books");
-
-  const queryReviews = await db.query("SELECT * FROM reviews");
+  const db = await dbPromise;
+  const queryBooks = await db.all(`SELECT * FROM books`);
+  const queryReviews = await db.all("SELECT * FROM reviews");
 
   let books = [];
   let matchFound = false;
-  for (let book of queryBooks.rows) {
-    for (let review of queryReviews.rows) {
+  console.log(queryBooks);
+  console.log(queryReviews);
+  for (let book of queryBooks) {
+    for (let review of queryReviews) {
       if (book.id === review.book_id) {
         books.push({
           id: book.id,
@@ -78,18 +78,14 @@ app.post("/addBook", async (req, res) => {
   const url = `https://covers.openlibrary.org/b/ISBN/${isbn}-L.jpg`;
 
   try {
-    await db.query("INSERT INTO books (isbn, url) VALUES ($1, $2)", [
-      isbn,
-      url,
-    ]);
+    const db = await dbPromise;
+    await db.run(`INSERT INTO books (isbn, url) VALUES (?, ?)`, [isbn, url]);
 
-    let newBookId = await db.query("SELECT id FROM books WHERE isbn = $1", [
-      isbn,
-    ]);
-    newBookId = newBookId.rows[0].id;
+    let newBookId = await db.all("SELECT id FROM books WHERE isbn = ?", [isbn]);
+    newBookId = newBookId[0].id;
 
     // initialize a blank review entry for the book
-    await db.query("INSERT INTO reviews (book_id, entry) VALUES ($1, $2)", [
+    await db.run("INSERT INTO reviews (book_id, entry) VALUES (?, ?)", [
       newBookId,
       "Add an entry!",
     ]);
@@ -103,8 +99,9 @@ app.post("/addBook", async (req, res) => {
 app.post("/deleteBook", async (req, res) => {
   const bookId = req.body.deleteBookId;
 
-  await db.query("DELETE FROM reviews WHERE book_id = $1", [bookId]);
-  await db.query("DELETE FROM books WHERE id = $1", [bookId]);
+  const db = await dbPromise;
+  await db.run("DELETE FROM reviews WHERE book_id = ?", [bookId]);
+  await db.run("DELETE FROM books WHERE id = ?", [bookId]);
 
   res.redirect("/");
 });
@@ -113,7 +110,8 @@ app.post("/updateReview", async (req, res) => {
   const reviewId = req.body.updatedReviewId;
   const newEntry = req.body.updatedReviewEntry;
 
-  await db.query("UPDATE reviews SET entry = $1 WHERE id = $2", [
+  const db = await dbPromise;
+  await db.run("UPDATE reviews SET entry = ? WHERE id = ?", [
     newEntry,
     reviewId,
   ]);
@@ -124,7 +122,8 @@ app.post("/updateReview", async (req, res) => {
 app.post("/deleteReview", async (req, res) => {
   const reviewId = req.body.deleteReviewId;
 
-  await db.query("UPDATE reviews SET entry = $1 WHERE id = $2", ["", reviewId]);
+  const db = await dbPromise;
+  await db.run("UPDATE reviews SET entry = ? WHERE id = ?", ["", reviewId]);
 
   res.redirect("/");
 });

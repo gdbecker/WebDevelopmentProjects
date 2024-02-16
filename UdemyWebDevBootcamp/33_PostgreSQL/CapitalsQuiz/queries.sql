@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS capitals;
+
+CREATE TABLE capitals (
+  id SERIAL PRIMARY KEY,
+  country VARCHAR(50) NOT NULL,
+  capital VARCHAR(50) NOT NULL
+);

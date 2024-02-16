@@ -1,12 +1,11 @@
-import express from "express";
-import bodyParser from "body-parser";
-import pg from "pg";
-import bcrypt from "bcrypt";
-import passport from "passport";
-import { Strategy } from "passport-local";
-import GoogleStrategy from "passport-google-oauth2";
-import session from "express-session";
-import env from "dotenv";
+const express = require("express");
+const bodyParser = require("body-parser");
+const bcrypt = require("bcrypt");
+const passport = require("passport");
+const { Strategy } = require("passport-local");
+const GoogleStrategy = require("passport-google-oauth2");
+const session = require("express-session");
+const env = require("dotenv");
 
 const app = express();
 const port = 3000;
@@ -26,15 +25,16 @@ app.use(express.static("public"));
 app.use(passport.initialize());
 app.use(passport.session());
 
-const db = new pg.Client({
-  user: process.env.PG_USER,
-  host: process.env.PG_HOST,
-  database: process.env.PG_DATABASE,
-  password: process.env.PG_PASSWORD,
-  port: process.env.PG_PORT,
-  ssl: true,
+// SQLite database packages
+const sqlite3 = require("sqlite3");
+const sqlite = require("sqlite");
+const { error } = require("console");
+
+// SQLite database setup
+const dbPromise = sqlite.open({
+  filename: "users.db",
+  driver: sqlite3.Database,
 });
-db.connect();
 
 app.get("/", (req, res) => {
   res.render("home.ejs");
@@ -62,8 +62,9 @@ app.get("/secrets", async (req, res) => {
 
     //TODO: Update this to pull in the user secret to render in secrets.ejs
     try {
-      const results = await db.query('SELECT secret FROM users WHERE email = $1', [req.user.email]);
-      const secret = results.rows[0].secret;
+      const db = await dbPromise;
+      const results = await db.all('SELECT secret FROM users WHERE email = ?', [req.user.email]);
+      const secret = results[0].secret;
 
       if (secret) {
         res.render("secrets.ejs", { secret: secret });
@@ -116,22 +117,23 @@ app.post("/register", async (req, res) => {
   const password = req.body.password;
 
   try {
-    const checkResult = await db.query("SELECT * FROM users WHERE email = $1", [
+    const db = await dbPromise;
+    const checkResult = await db.all("SELECT * FROM users WHERE email = ?", [
       email,
     ]);
 
-    if (checkResult.rows.length > 0) {
+    if (checkResult.length > 0) {
       req.redirect("/login");
     } else {
       bcrypt.hash(password, saltRounds, async (err, hash) => {
         if (err) {
           console.error("Error hashing password:", err);
         } else {
-          const result = await db.query(
-            "INSERT INTO users (email, password) VALUES ($1, $2) RETURNING *",
+          const result = await db.run(
+            "INSERT INTO users (email, password) VALUES (?, ?) RETURNING *",
             [email, hash],
           );
-          const user = result.rows[0];
+          const user = result[0];
           req.login(user, (err) => {
             res.redirect("/secrets");
           });
@@ -149,7 +151,8 @@ app.post("/submit", async (req, res) => {
   const secret = req.body.secret;
 
   try {
-    await db.query("UPDATE users SET secret = $1 WHERE email = $2", [
+    const db = await dbPromise;
+    await db.run("UPDATE users SET secret = ? WHERE email = ?", [
       secret,
       req.user.email,
     ]);
@@ -163,11 +166,12 @@ passport.use(
   "local",
   new Strategy(async function verify(username, password, cb) {
     try {
-      const result = await db.query("SELECT * FROM users WHERE email = $1 ", [
+      const db = await dbPromise;
+      const result = await db.all("SELECT * FROM users WHERE email = ?", [
         username,
       ]);
-      if (result.rows.length > 0) {
-        const user = result.rows[0];
+      if (result.length > 0) {
+        const user = result[0];
         const storedHashedPassword = user.password;
         bcrypt.compare(password, storedHashedPassword, (err, valid) => {
           if (err) {
@@ -206,14 +210,15 @@ passport.use(
         const result = await db.query("SELECT * FROM users WHERE email = $1", [
           profile.email,
         ]);
-        if (result.rows.length === 0) {
-          const newUser = await db.query(
-            "INSERT INTO users (email, password) VALUES ($1, $2)",
+        if (result.length === 0) {
+          const db = await dbPromise;
+          const newUser = await db.run(
+            "INSERT INTO users (email, password) VALUES (?, ?)",
             [profile.email, "google"],
           );
-          return cb(null, newUser.rows[0]);
+          return cb(null, newUser[0]);
         } else {
-          return cb(null, result.rows[0]);
+          return cb(null, result[0]);
         }
       } catch (err) {
         return cb(err);

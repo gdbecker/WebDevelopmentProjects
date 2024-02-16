@@ -6,6 +6,8 @@ Capstone project for the PostgreSQL module: BookNotes. BookNotes is an app to he
 
 This project combines concepts used from the previous sections including EJS templating, accessing public APIs, basic HTML, CSS, and JavaScript, as well as a PostgreSQL database to persist data.
 
+Note: For deployment I used an SQLite database since Replit's costs for using one of their PostgreSQL databases connected to Neon was too expensive. Check out the specific [Index PostgreSQL.js](./index%20postgresql.js) file for PostgreSQL configuration.
+
 #### Desktop View
 
 !["BookNotesDesktop"](./BookNotesDesktop.png)

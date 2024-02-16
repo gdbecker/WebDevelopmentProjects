@@ -1,12 +1,16 @@
 ## 19_ Theme Clock
 
-What it does
+Real time analog and digital clock with dark/light mode toggle button.
 
 ## [Live Demo: Theme Clock](https://19-theme-clock-gdbecker.netlify.app/)
 
-### Preview
+### Preview: Light Mode
 
-!["HomePage"](./HomePage.png)
+!["HomePage"](./HomePage-LightMode.png)
+
+### Preview: Dark Mode
+
+!["HomePage"](./HomePage-DarkMode.png)
 
 ### Tools
 - HTML

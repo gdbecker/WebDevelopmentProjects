@@ -1,56 +1,19 @@
-// importing csv data, comment out when done
-// leave off "type": "module" in package.json to use const = require imports
-// const fs = require("fs");
-// const csvParser = require("csv-parser");
-
-// // import csv data: countries
-// const csvData = [];
-
-// fs.createReadStream("./countries.csv")
-//   .pipe(csvParser())
-//   .on("data", (data) => {
-//       csvData.push(data);
-//   })
-//   .on("end", async () => {
-//     for (const c of csvData) {
-//       await knex("countries").insert({
-//         id: c.id,
-//         country_code: c.country_code,
-//         country_name: c.country_name,
-//       });
-//     }
-//   });
-
-// // connect to postgres database
-// const knex = require("knex")({
-//   // We are using PostgreSQL
-//   client: "postgres",
-//   // Use the `DATABASE_URL` environment variable we provide to connect to the Database
-//   // It is included in your Replit environment automatically (no need to set it up)
-//   connection: process.env.DATABASE_URL,
-
-//   // Optionally, you can use connection pools to increase query performance
-//   pool: { min: 0, max: 80 },
-// });
-
 // Family Travel Tracker app functionality
-import express from "express";
-import bodyParser from "body-parser";
-import pg from "pg";
+const express = require("express");
+const bodyParser = require("body-parser");
 
 const app = express();
 const port = 3000;
 
-const db = new pg.Client({
-  user: "neon",
-  host: "ep-quiet-smoke-87307450.us-east-2.aws.neon.tech",
-  database: "neondb",
-  password: "Vcbek89xHhAz",
-  port: 5432,
-  ssl: true,
-});
+// SQLite database packages
+const sqlite3 = require("sqlite3");
+const sqlite = require("sqlite");
 
-db.connect();
+// SQLite database setup
+const dbPromise = sqlite.open({
+  filename: "tracker.db",
+  driver: sqlite3.Database,
+});
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static("public"));
@@ -62,12 +25,13 @@ let currentUser = 1;
 let errorMessage = "";
 
 async function getUserResults() {
-  const resultUsers = await db.query(
-    "SELECT DISTINCT users.id, name, color FROM users LEFT JOIN visited_countries ON visited_countries.user_id = users.id ORDER BY id ASC",
+  const db = await dbPromise;
+  const resultUsers = await db.all(
+    "SELECT DISTINCT users.id, name, color FROM users LEFT JOIN visited_countries ON visited_countries.user_id = users.id ORDER BY users.id ASC",
   );
 
   const users = [];
-  for (const row of resultUsers.rows) {
+  for (const row of resultUsers) {
     users.push({
       id: row.id,
       name: row.name,
@@ -79,12 +43,13 @@ async function getUserResults() {
 }
 
 async function getUserColor(id) {
-  const resultUsers = await db.query(
-    "SELECT DISTINCT users.id, name, color FROM users LEFT JOIN visited_countries ON visited_countries.user_id = users.id ORDER BY id ASC",
+  const db = await dbPromise;
+  const resultUsers = await db.all(
+    "SELECT DISTINCT users.id, name, color FROM users LEFT JOIN visited_countries ON visited_countries.user_id = users.id ORDER BY users.id ASC",
   );
 
   let defaultColor;
-  for (const row of resultUsers.rows) {
+  for (const row of resultUsers) {
     if (row.id === id) {
       defaultColor = row.color;
     }
@@ -94,12 +59,13 @@ async function getUserColor(id) {
 }
 
 async function getUserCountries(id) {
-  const resultCountries = await db.query(
+  const db = await dbPromise;
+  const resultCountries = await db.all(
     "SELECT DISTINCT user_id, country_code FROM visited_countries RIGHT JOIN users ON users.id = visited_countries.user_id",
   );
 
   const countries = [];
-  for (const row of resultCountries.rows) {
+  for (const row of resultCountries) {
     if (row.user_id === id) {
       countries.push(row.country_code);
     }
@@ -139,6 +105,12 @@ app.post("/user", async (req, res) => {
   if (userInput !== undefined) {
     // update currentUser
     currentUser = parseInt(userInput);
+    
+    // get user color for id = userInput
+    const defaultColor = await getUserColor(currentUser);
+
+    // get user countries for id = userInput
+    const defaultCountries = await getUserCountries(currentUser);
 
     res.redirect("/");
   }
@@ -153,7 +125,8 @@ app.post("/new", async (req, res) => {
   const color = req.body["color"];
 
   try {
-    await db.query("INSERT INTO users (name, color) VALUES ($1, $2)", [
+    const db = await dbPromise;
+    await db.run("INSERT INTO users (name, color) VALUES (?, ?)", [
       name,
       color,
     ]);
@@ -169,14 +142,24 @@ app.post("/add", async (req, res) => {
   const userInput = parseInt(req.body["user_id"]);
   let result;
 
+  // get all users
+  const users = await getUserResults();
+
+  // get user color for id = userInput
+  const defaultColor = await getUserColor(userInput);
+
+  // get user countries for id = userInput
+  const defaultCountries = await getUserCountries(userInput);
+
   let countryCode;
 
   try {
-    result = await db.query(
-      "SELECT country_code FROM countries WHERE country_name = $1",
+    const db = await dbPromise;
+    result = await db.all(
+      "SELECT country_code FROM countries WHERE country_name = ?",
       [countryInput],
     );
-    const data = result.rows[0];
+    const data = result[0];
     countryCode = data.country_code;
     errorMessage = "";
   } catch (err) {
@@ -184,10 +167,11 @@ app.post("/add", async (req, res) => {
     res.redirect("/");
   }
 
-  if (result.rows.length !== 0) {
+  if (result.length !== 0) {
     try {
-      await db.query(
-        "INSERT INTO visited_countries (country_code, user_id) VALUES ($1, $2)",
+      const db = await dbPromise;
+      await db.run(
+        "INSERT INTO visited_countries (country_code, user_id) VALUES (?, ?)",
         [countryCode, userInput],
       );
       errorMessage = "";
