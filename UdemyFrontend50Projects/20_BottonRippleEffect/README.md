@@ -1,6 +1,6 @@
 ## 20_ Button Ripple Effect
 
-What it does
+Click on the button to cause a ripple effect depending on where you clicked.
 
 ## [Live Demo: Button Ripple Effect](https://20-button-ripple-effect-gdbecker.netlify.app/)
 
