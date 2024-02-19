@@ -1,12 +1,16 @@
 ## 24_ Content Placeholder
 
-What it does
+Loading animation plays on card loading.
 
 ## [Live Demo: Content Placeholder](https://24-content-placeholder-gdbecker.netlify.app/)
 
-### Preview
+### Preview: Loading
 
-!["HomePage"](./HomePage.png)
+!["HomePage"](./HomePage-Loading.png)
+
+### Preview: Loaded
+
+!["HomePage"](./HomePage-Loaded.png)
 
 ### Tools
 - HTML
