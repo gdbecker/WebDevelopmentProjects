@@ -2,7 +2,7 @@
 
 Click the magnifying glass to expand the search bar.
 
-## [Live Demo: Hidden Search](https://04-hidden-search-gdbecker.netlify.app/)
+## [Live Demo: Hidden Search](https://04-hidden-search-gdbecker.replit.app/)
 
 ### Preview
 

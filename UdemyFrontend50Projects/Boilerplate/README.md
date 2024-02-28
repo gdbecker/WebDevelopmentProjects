@@ -2,7 +2,7 @@
 
 What it does
 
-## [Live Demo: <ProjectName>](https://03-rotating-navigation-gdbecker.netlify.app/)
+## [Live Demo: <ProjectName>](https://##-rotating-navigation-gdbecker.replit.app/)
 
 ### Preview
 

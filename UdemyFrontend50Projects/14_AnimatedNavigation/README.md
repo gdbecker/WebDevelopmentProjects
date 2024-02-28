@@ -2,7 +2,7 @@
 
 Expand/collapse a navigation menu with an animation effect.
 
-## [Live Demo: Animated Navigation](https://14-animated-navigation-gdbecker.netlify.app/)
+## [Live Demo: Animated Navigation](https://14-animated-navigation-gdbecker.replit.app/)
 
 ### Preview
 

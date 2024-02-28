@@ -2,7 +2,7 @@
 
 Landing page with a split screen: hover each side to expand out.
 
-## [Live Demo: Split Landing Page](https://07-split-landing-page-gdbecker.netlify.app/)
+## [Live Demo: Split Landing Page](https://07-split-landing-page-gdbecker.replit.app/)
 
 ### Preview
 

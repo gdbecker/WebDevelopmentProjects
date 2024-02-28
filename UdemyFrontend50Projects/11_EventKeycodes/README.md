@@ -2,7 +2,7 @@
 
 Press any keyboard key and display its value, key code, and code.
 
-## [Live Demo: Event Keycodes](https://11-event-keycodes-gdbecker.netlify.app/)
+## [Live Demo: Event Keycodes](https://11-event-keycodes-gdbecker.replit.app/)
 
 ### Preview
 

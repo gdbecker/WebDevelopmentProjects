@@ -2,7 +2,7 @@
 
 Expand/collapse FAQ boxes.
 
-## [Live Demo: FAQ Collapse](https://12-faq-collapse-gdbecker.netlify.app/)
+## [Live Demo: FAQ Collapse](https://12-faq-collapse-gdbecker.replit.app/)
 
 ### Preview
 

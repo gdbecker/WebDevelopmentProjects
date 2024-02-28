@@ -2,7 +2,7 @@
 
 Loading animation plays on card loading.
 
-## [Live Demo: Content Placeholder](https://24-content-placeholder-gdbecker.netlify.app/)
+## [Live Demo: Content Placeholder](https://24-content-placeholder-gdbecker.replit.app/)
 
 ### Preview: Loading
 

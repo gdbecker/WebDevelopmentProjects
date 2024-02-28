@@ -2,7 +2,7 @@
 
 Fun and simple web-based drawing app - change the pen color and size and draw away!
 
-## [Live Demo: Drawing App](https://22-drawing-app-gdbecker.netlify.app/)
+## [Live Demo: Drawing App](https://22-drawing-app-gdbecker.replit.app/)
 
 ### Preview
 

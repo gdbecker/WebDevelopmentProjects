@@ -2,7 +2,7 @@
 
 Styled and animated button sliders
 
-## [Live Demo: Good, Cheap, Fast Checkboxes](https://32-good-cheap-fast-gdbecker.netlify.app/)
+## [Live Demo: Good, Cheap, Fast Checkboxes](https://32-good-cheap-fast-gdbecker.replit.app/)
 
 ### Preview
 

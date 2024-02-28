@@ -2,7 +2,7 @@
 
 Real time analog and digital clock with dark/light mode toggle button.
 
-## [Live Demo: Theme Clock](https://19-theme-clock-gdbecker.netlify.app/)
+## [Live Demo: Theme Clock](https://19-theme-clock-gdbecker.replit.app/)
 
 ### Preview: Light Mode
 

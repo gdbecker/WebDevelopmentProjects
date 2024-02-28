@@ -2,7 +2,7 @@
 
 Effect for auto typing text to the screen, and also includes a speed control input.
 
-## [Live Demo: Auto Text Effect](https://30-auto-text-effect-gdbecker.netlify.app/)
+## [Live Demo: Auto Text Effect](https://30-auto-text-effect-gdbecker.replit.app/)
 
 ### Preview
 

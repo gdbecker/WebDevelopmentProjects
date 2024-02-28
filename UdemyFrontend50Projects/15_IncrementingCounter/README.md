@@ -2,7 +2,7 @@
 
 Widget that counts up to your number of Twitter, YouTube, and Facebook followers.
 
-## [Live Demo: Incrementing Counter](https://15-incrementing-counter-gdbecker.netlify.app/)
+## [Live Demo: Incrementing Counter](https://15-incrementing-counter-gdbecker.replit.app/)
 
 ### Preview
 
