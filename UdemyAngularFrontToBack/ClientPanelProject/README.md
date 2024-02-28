@@ -1,6 +1,6 @@
 ## Angular Sandbox App
 
-## [Live Demo: ClientPanel App](https://clientpanel-app-gdbecker.netlify.app/login)
+## [Live Demo: ClientPanel App](https://clientpanel-app-gdbecker.netlify.app)
 
 #### Dashboard
 
