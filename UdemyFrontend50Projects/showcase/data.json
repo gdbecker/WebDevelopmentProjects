@@ -1,0 +1,352 @@
+[
+	{
+		"title": "01_ Expanding Cards",
+		"url": "https://01-expanding-cards-gdbecker.replit.app/",
+		"description": "Click on each image to expand and view location name",
+		"src": "../01_ExpandingCards/HomePage.png",
+		"alt": "01_ExpandingCards"
+	},
+	{
+		"title": "02_ Progress Steps",
+		"url": "https://02-progress-steps-gdbecker.replit.app/",
+		"description": "Click the next or prev buttons to advance the progress bar",
+		"src": "../02_ProgressSteps/HomePage.png",
+		"alt": "02_ProgressSteps"
+	},
+	{
+		"title": "03_ Rotating Navigation",
+		"url": "https://03-rotating-navigation-gdbecker.replit.app/",
+		"description": "Click on the page's hamburger nav button to rotate the page and reveal the navigation links",
+		"src": "../03_RotatingNavigation/HomePage.png",
+		"alt": "03_RotatingNavigation"
+	},
+	{
+		"title": "04_ Hidden Search",
+		"url": "https://04-hidden-search-gdbecker.replit.app/",
+		"description": "Click the magnifying glass to expand the search bar",
+		"src": "../04_HiddenSearch/HomePage.png",
+		"alt": "04_HiddenSearch"
+	},
+	{
+		"title": "05_ Blurry Loading",
+		"url": "https://05-blurry-loading-gdbecker.replit.app/",
+		"description": "Gradually load the page with the background image slowly coming into focus",
+		"src": "../05_BlurryLoading/HomePage.png",
+		"alt": "05_BlurryLoading"
+	},
+	{
+		"title": "06_ Scroll Animation",
+		"url": "https://06-scroll-animation-gdbecker.replit.app/",
+		"description": "Scroll up/down to trigger the content boxes to pop in or out from the right or left",
+		"src": "../06_ScrollAnimation/HomePage.png",
+		"alt": "06_ScrollAnimation"
+	},
+	{
+		"title": "07_ Split Landing Page",
+		"url": "https://07-split-landing-page-gdbecker.replit.app/",
+		"description": "Landing page with a split screen: hover each side to expand out",
+		"src": "../07_SplitLandingPage/HomePage.png",
+		"alt": "07_SplitLandingPage"
+	},
+	{
+		"title": "08_ Form Wave Animation",
+		"url": "https://08-form-wave-animation-gdbecker.replit.app/",
+		"description": "Add a smooth wave animation to the form labels when you click inside",
+		"src": "../08_FormWaveAnimation/HomePage.png",
+		"alt": "08_FormWaveAnimation"
+	},
+	{
+		"title": "09_ Sound Board",
+		"url": "https://09-sound-board-gdbecker.replit.app/",
+		"description": "Click each button to play a different sound",
+		"src": "../09_SoundBoard/HomePage.png",
+		"alt": "09_SoundBoard"
+	},
+	{
+		"title": "10_ Dad Jokes",
+		"url": "https://10-dad-jokes-gdbecker.replit.app/",
+		"description": "Generate a new dad joke at button click, fetched from a third party API",
+		"src": "../10_DadJokes/HomePage.png",
+		"alt": "10_DadJokes"
+	},
+	{
+		"title": "11_ Event Keycodes",
+		"url": "https://11-event-keycodes-gdbecker.replit.app/",
+		"description": "Press any keyboard key and display its value, key code, and code",
+		"src": "../11_EventKeycodes/HomePage.png",
+		"alt": "11_EventKeycodes"
+	},
+	{
+		"title": "12_ FAQ Collapse",
+		"url": "https://12-faq-collapse-gdbecker.replit.app/",
+		"description": "Expand/collapse FAQ boxes",
+		"src": "../12_FAQCollapse/HomePage.png",
+		"alt": "12_FAQCollapse"
+	},
+	{
+		"title": "13_ Random Choice Picker",
+		"url": "https://13-random-choice-picker-gdbecker.replit.app/",
+		"description": "Type in a comma separated list, and on hitting Enter the app will randomly pick one of the inputted values",
+		"src": "../13_RandomChoicePicker/HomePage.png",
+		"alt": "13_RandomChoicePicker"
+	},
+	{
+		"title": "14_ Animated Navigation",
+		"url": "https://14-animated-navigation-gdbecker.replit.app/",
+		"description": "Expand/collapse a navigation menu with an animation effect",
+		"src": "../14_AnimatedNavigation/HomePage.png",
+		"alt": "14_AnimatedNavigation"
+	},
+	{
+		"title": "15_ Incrementing Counter",
+		"url": "https://15-incrementing-counter-gdbecker.replit.app/",
+		"description": "Widget that counts up to your number of Twitter, YouTube, and Facebook followers",
+		"src": "../15_IncrementingCounter/HomePage.png",
+		"alt": "15_IncrementingCounter"
+	},
+	{
+		"title": "16_ Drink Water",
+		"url": "https://16-drink-water-gdbecker.replit.app/",
+		"description": "Keep track of how many glasses of water you've drank to reach your daily goal of 2L",
+		"src": "../16_DrinkWater/HomePage.png",
+		"alt": "16_DrinkWater"
+	},
+	{
+		"title": "17_ Movie App",
+		"url": "https://17-movie-app-gdbecker.replit.app/",
+		"description": "Search and display movies from TMDB via their API",
+		"src": "../17_MovieApp/HomePage.png",
+		"alt": "17_MovieApp"
+	},
+	{
+		"title": "18_ Background Slider",
+		"url": "https://18-background-slider-gdbecker.replit.app/",
+		"description": "Click the left and right arrow buttons to change the background and forefront images",
+		"src": "../18_BackgroundSlider/HomePage.png",
+		"alt": "18_BackgroundSlider"
+	},
+	{
+		"title": "19_ Theme Clock",
+		"url": "https://19-theme-clock-gdbecker.replit.app/",
+		"description": "Real time analog and digital clock with dark/light mode toggle button",
+		"src": "../19_ThemeClock/HomePage-LightMode.png",
+		"alt": "19_ThemeClock"
+	},
+	{
+		"title": "20_ Button Ripple Effect",
+		"url": "https://20-button-ripple-effect-gdbecker.replit.app/",
+		"description": "Click on the button to cause a ripple effect depending on where you clicked",
+		"src": "../20_BottonRippleEffect/HomePage.png",
+		"alt": "20_BottonRippleEffect"
+	},
+	{
+		"title": "21_ Drag-N-Drop",
+		"url": "https://21-drag-n-drop-gdbecker.replit.app/",
+		"description": "Drag and drop a photo from the initial box to any of the others and view styling changes as you drag",
+		"src": "../21_DragNDrop/HomePage.png",
+		"alt": "21_DragNDrop"
+	},
+	{
+		"title": "22_ Drawing App",
+		"url": "https://22-drawing-app-gdbecker.replit.app/",
+		"description": "Fun and simple web-based drawing app - change the pen color and size and draw away!",
+		"src": "../22_DrawingApp/HomePage.png",
+		"alt": "22_DrawingApp"
+	},
+	{
+		"title": "23_ Kinetic Loader",
+		"url": "https://23-kinetic-loader-gdbecker.replit.app/",
+		"description": "Animated triangle loader with only CSS",
+		"src": "../23_KineticLoader/HomePage.png",
+		"alt": "23_KineticLoader"
+	},
+	{
+		"title": "24_ Content Placeholders",
+		"url": "https://24-content-placeholder-gdbecker.replit.app/",
+		"description": "Loading animation plays on card loading",
+		"src": "../24_ContentPlaceholder/HomePage-Loading.png",
+		"alt": "24_ContentPlaceholder"
+	},
+	{
+		"title": "25_ Sticky Navbar",
+		"url": "https://25-sticky-navbar-gdbecker.replit.app/",
+		"description": "Navigation bar sticks to the top of the page and changes style at a scroll point on the page",
+		"src": "../25_StickyNavbar/HomePage-2.png",
+		"alt": "25_StickyNavbar"
+	},
+	{
+		"title": "26_ Double Vertical Slider",
+		"url": "https://26-double-vertical-slider-gdbecker.replit.app/",
+		"description": "Click the up/down arrows to vertically slide the next images and their title cards",
+		"src": "../26_DoubleVerticalSlider/HomePage.png",
+		"alt": "26_DoubleVerticalSlider"
+	},
+	{
+		"title": "27_ Toast Notification",
+		"url": "https://27-toast-notification-gdbecker.replit.app/",
+		"description": "Pops up a message box notification at the bottom right of the screen on button click",
+		"src": "../27_ToastNotification/HomePage.png",
+		"alt": "27_ToastNotification"
+	},
+	{
+		"title": "28_ Github Profiles",
+		"url": "https://28-github-profiles-gdbecker.replit.app/",
+		"description": "Search for and pull Github profile info",
+		"src": "../28_GithubProfiles/HomePage.png",
+		"alt": "28_GithubProfiles"
+	},
+	{
+		"title": "29_ Double Heart Click",
+		"url": "https://29-double-heart-click-gdbecker.replit.app/",
+		"description": "Double click the pic to show an emoji heart in the same position you clicked",
+		"src": "../29_DoubleHeartClick/HomePage.png",
+		"alt": "29_DoubleHeartClick"
+	},
+	{
+		"title": "30_ Auto Text Effect",
+		"url": "https://30-auto-text-effect-gdbecker.replit.app/",
+		"description": "Effect for auto typing text to the screen, and also includes a speed control input",
+		"src": "../30_AutoTextEffect/HomePage.png",
+		"alt": "30_AutoTextEffect"
+	},
+	{
+		"title": "31_ Password Generator",
+		"url": "https://31-password-generator-gdbecker.replit.app/",
+		"description": "Generate a new password based on length, uppercase and lowercase characters, numbers and symbols - and be able to copy to the clipboard on button click",
+		"src": "../31_PasswordGenerator/HomePage.png",
+		"alt": "31_PasswordGenerator"
+	},
+	{
+		"title": "32_ Good, Cheap, Fast Checkboxes",
+		"url": "https://32-good-cheap-fast-gdbecker.replit.app/",
+		"description": "Styled and animated button sliders",
+		"src": "../32_GoodCheapFast/HomePage.png",
+		"alt": "32_GoodCheapFast"
+	},
+	{
+		"title": "33_ Notes App",
+		"url": "https://33-notes-app-gdbecker.replit.app/",
+		"description": "Add notes to the page and save to LocalStorage, and be able to switch between edit and view modes. Notes support mark down input",
+		"src": "../33_NotesApp/HomePage.png",
+		"alt": "33_NotesApp"
+	},
+	{
+		"title": "34_ Animated Countdown",
+		"url": "https://34-animated-countdown-gdbecker.replit.app/",
+		"description": "A 3-2-1 countdown timer with animation that can be used before loading a web page",
+		"src": "../34_AnimatedCountdown/HomePage.png",
+		"alt": "34_AnimatedCountdown"
+	},
+	{
+		"title": "35_ Image Carousel",
+		"url": "https://35-image-carousel-gdbecker.replit.app/",
+		"description": "Image carousel that slides through automatically, but also has previous/next buttons to manually click through",
+		"src": "../35_ImageCarousel/HomePage.png",
+		"alt": "35_ImageCarousel"
+	},
+	{
+		"title": "36_ Hoverboard",
+		"url": "https://36-hoverboard-gdbecker.replit.app/",
+		"description": "Color hover effect over a grid of boxes",
+		"src": "../36_Hoverboard/HomePage.png",
+		"alt": "36_Hoverboard"
+	},
+	{
+		"title": "37_ Pokedex",
+		"url": "https://37-pokedex-gdbecker.replit.app/",
+		"description": "Pokemon cards site with images, types, and names for each - uses the Poke API",
+		"src": "../37_Pokedex/HomePage.png",
+		"alt": "37_Pokedex"
+	},
+	{
+		"title": "",
+		"url": "",
+		"description": "",
+		"src": "..//HomePage.png",
+		"alt": ""
+	},
+	{
+		"title": "",
+		"url": "",
+		"description": "",
+		"src": "..//HomePage.png",
+		"alt": ""
+	},
+	{
+		"title": "",
+		"url": "",
+		"description": "",
+		"src": "..//HomePage.png",
+		"alt": ""
+	},
+	{
+		"title": "",
+		"url": "",
+		"description": "",
+		"src": "..//HomePage.png",
+		"alt": ""
+	},
+	{
+		"title": "",
+		"url": "",
+		"description": "",
+		"src": "..//HomePage.png",
+		"alt": ""
+	},
+	{
+		"title": "",
+		"url": "",
+		"description": "",
+		"src": "..//HomePage.png",
+		"alt": ""
+	},
+	{
+		"title": "",
+		"url": "",
+		"description": "",
+		"src": "..//HomePage.png",
+		"alt": ""
+	},
+	{
+		"title": "",
+		"url": "",
+		"description": "",
+		"src": "..//HomePage.png",
+		"alt": ""
+	},
+	{
+		"title": "",
+		"url": "",
+		"description": "",
+		"src": "..//HomePage.png",
+		"alt": ""
+	},
+	{
+		"title": "",
+		"url": "",
+		"description": "",
+		"src": "..//HomePage.png",
+		"alt": ""
+	},
+	{
+		"title": "",
+		"url": "",
+		"description": "",
+		"src": "..//HomePage.png",
+		"alt": ""
+	},
+	{
+		"title": "",
+		"url": "",
+		"description": "",
+		"src": "..//HomePage.png",
+		"alt": ""
+	},
+	{
+		"title": "",
+		"url": "",
+		"description": "",
+		"src": "..//HomePage.png",
+		"alt": ""
+	}
+]

@@ -1,6 +1,6 @@
 ## 12_ FAQ Collapse
 
-Expand/collapse FAQ boxes.
+Expand/collapse FAQ boxes
 
 ## [Live Demo: FAQ Collapse](https://12-faq-collapse-gdbecker.replit.app/)
 

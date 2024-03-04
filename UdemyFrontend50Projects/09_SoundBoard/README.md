@@ -1,6 +1,6 @@
 ## 09_ Sound Board
 
-Click each button to play a different sound.
+Click each button to play a different sound
 
 ## [Live Demo: Sound Board](https://09-sound-board-gdbecker.replit.app/)
 

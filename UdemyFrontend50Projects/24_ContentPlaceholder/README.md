@@ -1,6 +1,6 @@
 ## 24_ Content Placeholder
 
-Loading animation plays on card loading.
+Loading animation plays on card loading
 
 ## [Live Demo: Content Placeholder](https://24-content-placeholder-gdbecker.replit.app/)
 
