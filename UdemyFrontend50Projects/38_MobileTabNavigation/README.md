@@ -1,8 +1,8 @@
 ## 38_ Mobile Tab Navigation
 
-What it does
+Mobile UI with navbar to active different images
 
-## [Live Demo: Mobile Tab Navigation](https://##-rotating-navigation-gdbecker.replit.app/)
+## [Live Demo: Mobile Tab Navigation](https://38-mobile-tab-navigation-gdbecker.replit.app/)
 
 ### Preview
 

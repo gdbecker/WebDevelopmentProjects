@@ -259,18 +259,18 @@
 		"alt": "37_Pokedex"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "..//HomePage.png",
-		"alt": ""
+		"title": "38_ Mobile Tab Navigation",
+		"url": "https://38-mobile-tab-navigation-gdbecker.replit.app/",
+		"description": "Mobile UI with navbar to active different images",
+		"src": "../38_MobileTabNavigation/HomePage.png",
+		"alt": "38_MobileTabNavigation"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "..//HomePage.png",
-		"alt": ""
+		"title": "39_ Password Strength Background",
+		"url": "https://39-password-strength-background-gdbecker.replit.app/",
+		"description": "Background image gets clearer the stronger your password becomes",
+		"src": "../39_PasswordStrengthBackground/HomePage.png",
+		"alt": "39_PasswordStrengthBackground"
 	},
 	{
 		"title": "",
