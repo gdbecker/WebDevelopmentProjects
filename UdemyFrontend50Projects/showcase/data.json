@@ -273,18 +273,18 @@
 		"alt": "39_PasswordStrengthBackground"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "..//HomePage.png",
-		"alt": ""
+		"title": "40_ 3D Background Boxes",
+		"url": "https://40-3d-background-boxes-gdbecker.replit.app/",
+		"description": "Grid of boxes with 3D effect and background image",
+		"src": "../40_3DBackgroundBoxes/HomePage.png",
+		"alt": "40_3DBackgroundBoxes"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "..//HomePage.png",
-		"alt": ""
+		"title": "41_ Verify Account UI",
+		"url": "https://41-verify-account-ui-gdbecker.replit.app/",
+		"description": "Verify account box to input auth code",
+		"src": "../41_VerifyAccountUI/HomePage.png",
+		"alt": "41_VerifyAccountUI"
 	},
 	{
 		"title": "",

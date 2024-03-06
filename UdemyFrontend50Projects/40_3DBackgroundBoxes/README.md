@@ -1,8 +1,8 @@
 ## 40_ 3D Background Boxes
 
-What it does
+Grid of boxes with 3D effect and background image
 
-## [Live Demo: 3D Background Boxes](https://##-rotating-navigation-gdbecker.replit.app/)
+## [Live Demo: 3D Background Boxes](https://40-3d-background-boxes-gdbecker.replit.app/)
 
 ### Preview
 
