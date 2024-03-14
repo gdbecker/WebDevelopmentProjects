@@ -287,32 +287,32 @@
 		"alt": "41_VerifyAccountUI"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "..//HomePage.png",
-		"alt": ""
+		"title": "42_ Live User Filter",
+		"url": "https://42-live-user-filter-gdbecker.replit.app/",
+		"description": "Search and filter down users by name - uses data from the Random User API",
+		"src": "../42_LiveUserFilter/HomePage.png",
+		"alt": "42_LiveUserFilter"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "..//HomePage.png",
-		"alt": ""
+		"title": "43_ Feedback UI Design",
+		"url": "https://43-feedback-ui-design-gdbecker.replit.app/",
+		"description": "Submit satisfaction survey and display a thank you message with selected input",
+		"src": "../43_FeedbackUIDesign/HomePage.png",
+		"alt": "43_FeedbackUIDesign"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "..//HomePage.png",
-		"alt": ""
+		"title": "44_ Custom Range Slider",
+		"url": "https://44-custom-range-slider-gdbecker.replit.app/",
+		"description": "Custom styled click/drag range slider",
+		"src": "../44_CustomRangeSlider/HomePage.png",
+		"alt": "44_CustomRangeSlider"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "..//HomePage.png",
-		"alt": ""
+		"title": "45_ Netflix Mobile Navigation",
+		"url": "https://45-netflix-mobile-navigation-gdbecker.replit.app/",
+		"description": "Mobile Netflix navigation menu with multi-panel effect",
+		"src": "../45_NetflixMobileNavigation/HomePage.png",
+		"alt": "45_NetflixMobileNavigation"
 	},
 	{
 		"title": "",
