@@ -315,18 +315,18 @@
 		"alt": "45_NetflixMobileNavigation"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "..//HomePage.png",
-		"alt": ""
+		"title": "46_ Quiz App",
+		"url": "https://46-quiz-app-gdbecker.replit.app/",
+		"description": "Simple quiz app with multiple questions, and displays score at the end",
+		"src": "../46_QuizApp/HomePage.png",
+		"alt": "46_QuizApp"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "..//HomePage.png",
-		"alt": ""
+		"title": "47_ Testimonial Box Switcher",
+		"url": "https://47-testimonial-box-switcher-gdbecker.replit.app/",
+		"description": "Series of testimonial boxes that switch every ten seconds",
+		"src": "../47_TestimonialBoxSwitcher/HomePage.png",
+		"alt": "47_TestimonialBoxSwitcher"
 	},
 	{
 		"title": "",

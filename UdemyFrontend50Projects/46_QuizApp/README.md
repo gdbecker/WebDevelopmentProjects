@@ -1,8 +1,8 @@
 ## 46_ Quiz App
 
-What it does
+Simple quiz app with multiple questions, and displays score at the end
 
-## [Live Demo: Quiz App]()
+## [Live Demo: Quiz App](https://46-quiz-app-gdbecker.replit.app/)
 
 ### Preview
 
