@@ -1,8 +1,8 @@
 ## 48_ Random Image Feed
 
-What it does
+Grid of randomly generated images
 
-## [Live Demo: Random Image Feed]()
+## [Live Demo: Random Image Feed](https://48-random-image-feed-gdbecker.replit.app/)
 
 ### Preview
 

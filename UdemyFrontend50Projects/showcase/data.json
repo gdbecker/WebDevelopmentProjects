@@ -329,6 +329,13 @@
 		"alt": "47_TestimonialBoxSwitcher"
 	},
 	{
+		"title": "48_ Random Image Feed",
+		"url": "https://48-random-image-feed-gdbecker.replit.app/",
+		"description": "Grid of randomly generated images",
+		"src": "../48_RandomImageFeed/HomePage.png",
+		"alt": "48_RandomImageFeed"
+	},
+	{
 		"title": "",
 		"url": "",
 		"description": "",
