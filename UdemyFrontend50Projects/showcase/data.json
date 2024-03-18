@@ -336,11 +336,11 @@
 		"alt": "48_RandomImageFeed"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "..//HomePage.png",
-		"alt": ""
+		"title": "49_ Todo List",
+		"url": "https://49-todo-list-gdbecker.replit.app/",
+		"description": "Todos app saved to the browser's local storage, left click to mark as completed and right click to delete",
+		"src": "../49_TodoList/HomePage.png",
+		"alt": "49_TodoList"
 	},
 	{
 		"title": "",

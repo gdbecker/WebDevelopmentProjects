@@ -1,8 +1,8 @@
-## 49_ ToDo List
+## 49_ Todo List
 
-What it does
+Todos app saved to the browser's local storage, left click to mark as completed and right click to delete
 
-## [Live Demo: ToDo List]()
+## [Live Demo: Todo List](https://49-todo-list-gdbecker.replit.app/)
 
 ### Preview
 
