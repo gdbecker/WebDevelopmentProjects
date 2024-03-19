@@ -1,8 +1,8 @@
 ## 50_ Insect Catch Game
 
-What it does
+Try to catch all of the insects you can
 
-## [Live Demo: Insect Catch Game]()
+## [Live Demo: Insect Catch Game](https://50-insect-catch-game-gdbecker.replit.app/)
 
 ### Preview
 

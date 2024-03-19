@@ -1,4 +1,4 @@
-## 51_ Simple Timer
+## Bonus_ Simple Timer
 
 What it does
 

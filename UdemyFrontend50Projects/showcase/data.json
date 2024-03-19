@@ -343,17 +343,17 @@
 		"alt": "49_TodoList"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "..//HomePage.png",
-		"alt": ""
+		"title": "50_ Insect Catch Game",
+		"url": "https://50-insect-catch-game-gdbecker.replit.app/",
+		"description": "Try to catch all of the insects you can",
+		"src": "../50_InsectCatchGame/HomePage.png",
+		"alt": "50_InsectCatchGame"
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "..//HomePage.png",
-		"alt": ""
+		"src": "../51_SimpleTimer/HomePage.png",
+		"alt": "51_SimpleTimer"
 	}
 ]
