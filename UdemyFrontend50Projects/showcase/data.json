@@ -3,357 +3,357 @@
 		"title": "01_ Expanding Cards",
 		"url": "https://01-expanding-cards-gdbecker.replit.app/",
 		"description": "Click on each image to expand and view location name",
-		"src": "../01_ExpandingCards/HomePage.png",
+		"src": "./public/01_ExpandingCards.png",
 		"alt": "01_ExpandingCards"
 	},
 	{
 		"title": "02_ Progress Steps",
 		"url": "https://02-progress-steps-gdbecker.replit.app/",
 		"description": "Click the next or prev buttons to advance the progress bar",
-		"src": "../02_ProgressSteps/HomePage.png",
+		"src": "./public/02_ProgressSteps.png",
 		"alt": "02_ProgressSteps"
 	},
 	{
 		"title": "03_ Rotating Navigation",
 		"url": "https://03-rotating-navigation-gdbecker.replit.app/",
 		"description": "Click on the page's hamburger nav button to rotate the page and reveal the navigation links",
-		"src": "../03_RotatingNavigation/HomePage.png",
+		"src": "./public/03_RotatingNavigation.png",
 		"alt": "03_RotatingNavigation"
 	},
 	{
 		"title": "04_ Hidden Search",
 		"url": "https://04-hidden-search-gdbecker.replit.app/",
 		"description": "Click the magnifying glass to expand the search bar",
-		"src": "../04_HiddenSearch/HomePage.png",
+		"src": "./public/04_HiddenSearch.png",
 		"alt": "04_HiddenSearch"
 	},
 	{
 		"title": "05_ Blurry Loading",
 		"url": "https://05-blurry-loading-gdbecker.replit.app/",
 		"description": "Gradually load the page with the background image slowly coming into focus",
-		"src": "../05_BlurryLoading/HomePage.png",
+		"src": "./public/05_BlurryLoading.png",
 		"alt": "05_BlurryLoading"
 	},
 	{
 		"title": "06_ Scroll Animation",
 		"url": "https://06-scroll-animation-gdbecker.replit.app/",
 		"description": "Scroll up/down to trigger the content boxes to pop in or out from the right or left",
-		"src": "../06_ScrollAnimation/HomePage.png",
+		"src": "./public/06_ScrollAnimation.png",
 		"alt": "06_ScrollAnimation"
 	},
 	{
 		"title": "07_ Split Landing Page",
 		"url": "https://07-split-landing-page-gdbecker.replit.app/",
 		"description": "Landing page with a split screen: hover each side to expand out",
-		"src": "../07_SplitLandingPage/HomePage.png",
+		"src": "./public/07_SplitLandingPage.png",
 		"alt": "07_SplitLandingPage"
 	},
 	{
 		"title": "08_ Form Wave Animation",
 		"url": "https://08-form-wave-animation-gdbecker.replit.app/",
 		"description": "Add a smooth wave animation to the form labels when you click inside",
-		"src": "../08_FormWaveAnimation/HomePage.png",
+		"src": "./public/08_FormWaveAnimation.png",
 		"alt": "08_FormWaveAnimation"
 	},
 	{
 		"title": "09_ Sound Board",
 		"url": "https://09-sound-board-gdbecker.replit.app/",
 		"description": "Click each button to play a different sound",
-		"src": "../09_SoundBoard/HomePage.png",
+		"src": "./public/09_SoundBoard.png",
 		"alt": "09_SoundBoard"
 	},
 	{
 		"title": "10_ Dad Jokes",
 		"url": "https://10-dad-jokes-gdbecker.replit.app/",
 		"description": "Generate a new dad joke at button click, fetched from a third party API",
-		"src": "../10_DadJokes/HomePage.png",
+		"src": "./public/10_DadJokes.png",
 		"alt": "10_DadJokes"
 	},
 	{
 		"title": "11_ Event Keycodes",
 		"url": "https://11-event-keycodes-gdbecker.replit.app/",
 		"description": "Press any keyboard key and display its value, key code, and code",
-		"src": "../11_EventKeycodes/HomePage.png",
+		"src": "./public/11_EventKeycodes.png",
 		"alt": "11_EventKeycodes"
 	},
 	{
 		"title": "12_ FAQ Collapse",
 		"url": "https://12-faq-collapse-gdbecker.replit.app/",
 		"description": "Expand/collapse FAQ boxes",
-		"src": "../12_FAQCollapse/HomePage.png",
+		"src": "./public/12_FAQCollapse.png",
 		"alt": "12_FAQCollapse"
 	},
 	{
 		"title": "13_ Random Choice Picker",
 		"url": "https://13-random-choice-picker-gdbecker.replit.app/",
 		"description": "Type in a comma separated list, and on hitting Enter the app will randomly pick one of the inputted values",
-		"src": "../13_RandomChoicePicker/HomePage.png",
+		"src": "./public/13_RandomChoicePicker.png",
 		"alt": "13_RandomChoicePicker"
 	},
 	{
 		"title": "14_ Animated Navigation",
 		"url": "https://14-animated-navigation-gdbecker.replit.app/",
 		"description": "Expand/collapse a navigation menu with an animation effect",
-		"src": "../14_AnimatedNavigation/HomePage.png",
+		"src": "./public/14_AnimatedNavigation.png",
 		"alt": "14_AnimatedNavigation"
 	},
 	{
 		"title": "15_ Incrementing Counter",
 		"url": "https://15-incrementing-counter-gdbecker.replit.app/",
 		"description": "Widget that counts up to your number of Twitter, YouTube, and Facebook followers",
-		"src": "../15_IncrementingCounter/HomePage.png",
+		"src": "./public/15_IncrementingCounter.png",
 		"alt": "15_IncrementingCounter"
 	},
 	{
 		"title": "16_ Drink Water",
 		"url": "https://16-drink-water-gdbecker.replit.app/",
 		"description": "Keep track of how many glasses of water you've drank to reach your daily goal of 2L",
-		"src": "../16_DrinkWater/HomePage.png",
+		"src": "./public/16_DrinkWater.png",
 		"alt": "16_DrinkWater"
 	},
 	{
 		"title": "17_ Movie App",
 		"url": "https://17-movie-app-gdbecker.replit.app/",
 		"description": "Search and display movies from TMDB via their API",
-		"src": "../17_MovieApp/HomePage.png",
+		"src": "./public/17_MovieApp.png",
 		"alt": "17_MovieApp"
 	},
 	{
 		"title": "18_ Background Slider",
 		"url": "https://18-background-slider-gdbecker.replit.app/",
 		"description": "Click the left and right arrow buttons to change the background and forefront images",
-		"src": "../18_BackgroundSlider/HomePage.png",
+		"src": "./public/18_BackgroundSlider.png",
 		"alt": "18_BackgroundSlider"
 	},
 	{
 		"title": "19_ Theme Clock",
 		"url": "https://19-theme-clock-gdbecker.replit.app/",
 		"description": "Real time analog and digital clock with dark/light mode toggle button",
-		"src": "../19_ThemeClock/HomePage-LightMode.png",
+		"src": "./public/19_ThemeClock.png",
 		"alt": "19_ThemeClock"
 	},
 	{
 		"title": "20_ Button Ripple Effect",
 		"url": "https://20-button-ripple-effect-gdbecker.replit.app/",
 		"description": "Click on the button to cause a ripple effect depending on where you clicked",
-		"src": "../20_BottonRippleEffect/HomePage.png",
+		"src": "./public/20_BottonRippleEffect.png",
 		"alt": "20_BottonRippleEffect"
 	},
 	{
 		"title": "21_ Drag-N-Drop",
 		"url": "https://21-drag-n-drop-gdbecker.replit.app/",
 		"description": "Drag and drop a photo from the initial box to any of the others and view styling changes as you drag",
-		"src": "../21_DragNDrop/HomePage.png",
+		"src": "./public/21_DragNDrop.png",
 		"alt": "21_DragNDrop"
 	},
 	{
 		"title": "22_ Drawing App",
 		"url": "https://22-drawing-app-gdbecker.replit.app/",
 		"description": "Fun and simple web-based drawing app - change the pen color and size and draw away!",
-		"src": "../22_DrawingApp/HomePage.png",
+		"src": "./public/22_DrawingApp.png",
 		"alt": "22_DrawingApp"
 	},
 	{
 		"title": "23_ Kinetic Loader",
 		"url": "https://23-kinetic-loader-gdbecker.replit.app/",
 		"description": "Animated triangle loader with only CSS",
-		"src": "../23_KineticLoader/HomePage.png",
+		"src": "./public/23_KineticLoader.png",
 		"alt": "23_KineticLoader"
 	},
 	{
 		"title": "24_ Content Placeholders",
 		"url": "https://24-content-placeholder-gdbecker.replit.app/",
 		"description": "Loading animation plays on card loading",
-		"src": "../24_ContentPlaceholder/HomePage-Loading.png",
+		"src": "./public/24_ContentPlaceholder.png",
 		"alt": "24_ContentPlaceholder"
 	},
 	{
 		"title": "25_ Sticky Navbar",
 		"url": "https://25-sticky-navbar-gdbecker.replit.app/",
 		"description": "Navigation bar sticks to the top of the page and changes style at a scroll point on the page",
-		"src": "../25_StickyNavbar/HomePage-2.png",
+		"src": "./public/25_StickyNavbar.png",
 		"alt": "25_StickyNavbar"
 	},
 	{
 		"title": "26_ Double Vertical Slider",
 		"url": "https://26-double-vertical-slider-gdbecker.replit.app/",
 		"description": "Click the up/down arrows to vertically slide the next images and their title cards",
-		"src": "../26_DoubleVerticalSlider/HomePage.png",
+		"src": "./public/26_DoubleVerticalSlider.png",
 		"alt": "26_DoubleVerticalSlider"
 	},
 	{
 		"title": "27_ Toast Notification",
 		"url": "https://27-toast-notification-gdbecker.replit.app/",
 		"description": "Pops up a message box notification at the bottom right of the screen on button click",
-		"src": "../27_ToastNotification/HomePage.png",
+		"src": "./public/27_ToastNotification.png",
 		"alt": "27_ToastNotification"
 	},
 	{
 		"title": "28_ Github Profiles",
 		"url": "https://28-github-profiles-gdbecker.replit.app/",
 		"description": "Search for and pull Github profile info",
-		"src": "../28_GithubProfiles/HomePage.png",
+		"src": "./public/28_GithubProfiles.png",
 		"alt": "28_GithubProfiles"
 	},
 	{
 		"title": "29_ Double Heart Click",
 		"url": "https://29-double-heart-click-gdbecker.replit.app/",
 		"description": "Double click the pic to show an emoji heart in the same position you clicked",
-		"src": "../29_DoubleHeartClick/HomePage.png",
+		"src": "./public/29_DoubleHeartClick.png",
 		"alt": "29_DoubleHeartClick"
 	},
 	{
 		"title": "30_ Auto Text Effect",
 		"url": "https://30-auto-text-effect-gdbecker.replit.app/",
 		"description": "Effect for auto typing text to the screen, and also includes a speed control input",
-		"src": "../30_AutoTextEffect/HomePage.png",
+		"src": "./public/30_AutoTextEffect.png",
 		"alt": "30_AutoTextEffect"
 	},
 	{
 		"title": "31_ Password Generator",
 		"url": "https://31-password-generator-gdbecker.replit.app/",
 		"description": "Generate a new password based on length, uppercase and lowercase characters, numbers and symbols - and be able to copy to the clipboard on button click",
-		"src": "../31_PasswordGenerator/HomePage.png",
+		"src": "./public/31_PasswordGenerator.png",
 		"alt": "31_PasswordGenerator"
 	},
 	{
 		"title": "32_ Good, Cheap, Fast Checkboxes",
 		"url": "https://32-good-cheap-fast-gdbecker.replit.app/",
 		"description": "Styled and animated button sliders",
-		"src": "../32_GoodCheapFast/HomePage.png",
+		"src": "./public/32_GoodCheapFast.png",
 		"alt": "32_GoodCheapFast"
 	},
 	{
 		"title": "33_ Notes App",
 		"url": "https://33-notes-app-gdbecker.replit.app/",
 		"description": "Add notes to the page and save to LocalStorage, and be able to switch between edit and view modes. Notes support mark down input",
-		"src": "../33_NotesApp/HomePage.png",
+		"src": "./public/33_NotesApp.png",
 		"alt": "33_NotesApp"
 	},
 	{
 		"title": "34_ Animated Countdown",
 		"url": "https://34-animated-countdown-gdbecker.replit.app/",
 		"description": "A 3-2-1 countdown timer with animation that can be used before loading a web page",
-		"src": "../34_AnimatedCountdown/HomePage.png",
+		"src": "./public/34_AnimatedCountdown.png",
 		"alt": "34_AnimatedCountdown"
 	},
 	{
 		"title": "35_ Image Carousel",
 		"url": "https://35-image-carousel-gdbecker.replit.app/",
 		"description": "Image carousel that slides through automatically, but also has previous/next buttons to manually click through",
-		"src": "../35_ImageCarousel/HomePage.png",
+		"src": "./public/35_ImageCarousel.png",
 		"alt": "35_ImageCarousel"
 	},
 	{
 		"title": "36_ Hoverboard",
 		"url": "https://36-hoverboard-gdbecker.replit.app/",
 		"description": "Color hover effect over a grid of boxes",
-		"src": "../36_Hoverboard/HomePage.png",
+		"src": "./public/36_Hoverboard.png",
 		"alt": "36_Hoverboard"
 	},
 	{
 		"title": "37_ Pokedex",
 		"url": "https://37-pokedex-gdbecker.replit.app/",
 		"description": "Pokemon cards site with images, types, and names for each - uses the Poke API",
-		"src": "../37_Pokedex/HomePage.png",
+		"src": "./public/37_Pokedex.png",
 		"alt": "37_Pokedex"
 	},
 	{
 		"title": "38_ Mobile Tab Navigation",
 		"url": "https://38-mobile-tab-navigation-gdbecker.replit.app/",
 		"description": "Mobile UI with navbar to active different images",
-		"src": "../38_MobileTabNavigation/HomePage.png",
+		"src": "./public/38_MobileTabNavigation.png",
 		"alt": "38_MobileTabNavigation"
 	},
 	{
 		"title": "39_ Password Strength Background",
 		"url": "https://39-password-strength-background-gdbecker.replit.app/",
 		"description": "Background image gets clearer the stronger your password becomes",
-		"src": "../39_PasswordStrengthBackground/HomePage.png",
+		"src": "./public/39_PasswordStrengthBackground.png",
 		"alt": "39_PasswordStrengthBackground"
 	},
 	{
 		"title": "40_ 3D Background Boxes",
 		"url": "https://40-3d-background-boxes-gdbecker.replit.app/",
 		"description": "Grid of boxes with 3D effect and background image",
-		"src": "../40_3DBackgroundBoxes/HomePage.png",
+		"src": "./public/40_3DBackgroundBoxes.png",
 		"alt": "40_3DBackgroundBoxes"
 	},
 	{
 		"title": "41_ Verify Account UI",
 		"url": "https://41-verify-account-ui-gdbecker.replit.app/",
 		"description": "Verify account box to input auth code",
-		"src": "../41_VerifyAccountUI/HomePage.png",
+		"src": "./public/41_VerifyAccountUI.png",
 		"alt": "41_VerifyAccountUI"
 	},
 	{
 		"title": "42_ Live User Filter",
 		"url": "https://42-live-user-filter-gdbecker.replit.app/",
 		"description": "Search and filter down users by name - uses data from the Random User API",
-		"src": "../42_LiveUserFilter/HomePage.png",
+		"src": "./public/42_LiveUserFilter.png",
 		"alt": "42_LiveUserFilter"
 	},
 	{
 		"title": "43_ Feedback UI Design",
 		"url": "https://43-feedback-ui-design-gdbecker.replit.app/",
 		"description": "Submit satisfaction survey and display a thank you message with selected input",
-		"src": "../43_FeedbackUIDesign/HomePage.png",
+		"src": "./public/43_FeedbackUIDesign.png",
 		"alt": "43_FeedbackUIDesign"
 	},
 	{
 		"title": "44_ Custom Range Slider",
 		"url": "https://44-custom-range-slider-gdbecker.replit.app/",
 		"description": "Custom styled click/drag range slider",
-		"src": "../44_CustomRangeSlider/HomePage.png",
+		"src": "./public/44_CustomRangeSlider.png",
 		"alt": "44_CustomRangeSlider"
 	},
 	{
 		"title": "45_ Netflix Mobile Navigation",
 		"url": "https://45-netflix-mobile-navigation-gdbecker.replit.app/",
 		"description": "Mobile Netflix navigation menu with multi-panel effect",
-		"src": "../45_NetflixMobileNavigation/HomePage.png",
+		"src": "./public/45_NetflixMobileNavigation.png",
 		"alt": "45_NetflixMobileNavigation"
 	},
 	{
 		"title": "46_ Quiz App",
 		"url": "https://46-quiz-app-gdbecker.replit.app/",
 		"description": "Simple quiz app with multiple questions, and displays score at the end",
-		"src": "../46_QuizApp/HomePage.png",
+		"src": "./public/46_QuizApp.png",
 		"alt": "46_QuizApp"
 	},
 	{
 		"title": "47_ Testimonial Box Switcher",
 		"url": "https://47-testimonial-box-switcher-gdbecker.replit.app/",
 		"description": "Series of testimonial boxes that switch every ten seconds",
-		"src": "../47_TestimonialBoxSwitcher/HomePage.png",
+		"src": "./public/47_TestimonialBoxSwitcher.png",
 		"alt": "47_TestimonialBoxSwitcher"
 	},
 	{
 		"title": "48_ Random Image Feed",
 		"url": "https://48-random-image-feed-gdbecker.replit.app/",
 		"description": "Grid of randomly generated images",
-		"src": "../48_RandomImageFeed/HomePage.png",
+		"src": "./public/48_RandomImageFeed.png",
 		"alt": "48_RandomImageFeed"
 	},
 	{
 		"title": "49_ Todo List",
 		"url": "https://49-todo-list-gdbecker.replit.app/",
 		"description": "Todos app saved to the browser's local storage, left click to mark as completed and right click to delete",
-		"src": "../49_TodoList/HomePage.png",
+		"src": "./public/49_TodoList.png",
 		"alt": "49_TodoList"
 	},
 	{
 		"title": "50_ Insect Catch Game",
 		"url": "https://50-insect-catch-game-gdbecker.replit.app/",
 		"description": "Try to catch all of the insects you can",
-		"src": "../50_InsectCatchGame/HomePage.png",
+		"src": "./public/50_InsectCatchGame.png",
 		"alt": "50_InsectCatchGame"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "../51_SimpleTimer/HomePage.png",
+		"title": "Bonus_ Simple Timer",
+		"url": "https://51-simple-timer-gdbecker.replit.app/",
+		"description": "Tailwind CSS styled timer with play, pause and reset buttons",
+		"src": "./public/51_SimpleTimer.png",
 		"alt": "51_SimpleTimer"
 	}
 ]

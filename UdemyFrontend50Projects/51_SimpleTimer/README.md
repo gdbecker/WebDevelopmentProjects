@@ -1,8 +1,8 @@
 ## Bonus_ Simple Timer
 
-What it does
+Tailwind CSS styled timer with play, pause and reset buttons
 
-## [Live Demo: Simple Timer]()
+## [Live Demo: Simple Timer](https://51-simple-timer-gdbecker.replit.app/)
 
 ### Preview
 

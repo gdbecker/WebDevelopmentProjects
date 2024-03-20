@@ -12,3 +12,6 @@ What it does
 - HTML
 - CSS
 - Vanilla JavaScript
+
+### Specifications
+- 

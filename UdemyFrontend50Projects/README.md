@@ -2,9 +2,11 @@
 
 Projects and learning from Brad Traversy's [50 Projects In 50 Days - HTML, CSS & JavaScript course on Udemy](https://www.udemy.com/course/50-projects-50-days/).
 
-### [Certificate]()
+### [Certificate](https://www.udemy.com/certificate/UC-0055c8c5-b590-4d35-ab9a-6f8294d0551e/)
 
 !["Certificate"](./Certificate.jpg)
+
+### [Live Demo: Links to All Projects](https://50-projects-50-days-gdbecker.replit.app/)
 
 ### Course Details
 
