@@ -1,142 +1,142 @@
 [
 	{
+		"title": "01_ Form Validator",
+		"url": "https://01-form-validator-gdbecker.replit.app/",
+		"description": "Simple client side form validation. Check required, length, email and password match",
+		"src": "./public/01_FormValidator.png",
+		"alt": "01_FormValidator"
+	},
+	{
+		"title": "02_ Movie Seat Booking",
+		"url": "https://02-movie-seat-booking-gdbecker.replit.app/",
+		"description": "Display movie choices and seats in a theater to select from in order to purchase tickets",
+		"src": "./public/02_MovieSeatBooking.png",
+		"alt": "02_MovieSeatBooking"
+	},
+	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	},
 	{
 		"title": "",
 		"url": "",
 		"description": "",
-		"src": "./public/",
-		"alt": ""
-	},
-	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/",
-		"alt": ""
-	},
-	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/",
+		"src": "./public/.png",
 		"alt": ""
 	}
 ]

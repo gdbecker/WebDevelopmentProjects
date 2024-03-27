@@ -2,7 +2,7 @@
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
 
-## [Live Demo: Movie Seat Booking]()
+## [Live Demo: Movie Seat Booking](https://02-movie-seat-booking-gdbecker.replit.app/)
 
 ### Preview
 

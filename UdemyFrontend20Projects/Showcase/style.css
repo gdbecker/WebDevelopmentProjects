@@ -14,7 +14,7 @@
 }
 
 body {
-	background-color: var(--gray);
+	background-color: var(--mediumgreen);
 	font-family: 'Poppins', 'sans-serif';
 	display: flex;
 	flex-direction: column;
@@ -34,6 +34,10 @@ body {
 	justify-content: start;
 }
 
+h1 {
+	color: var(--white);
+}
+
 .projects {
 	display: flex;
 	flex-direction: row;
@@ -51,7 +55,7 @@ body {
 	width: 500px;
 	border-radius: 10px;
 	margin: 0.75rem 0.75rem;
-	box-shadow: var(--darkgray) 0px 2px 24px;
+	box-shadow: var(--darkgray) 0px 0px 2px;
 	overflow: hidden;
 }
 
@@ -72,13 +76,13 @@ body {
 }
 
 .card .details a:hover {
-	color: var(--yellow);
+	color: var(--lightgreen);
 }
 
 .card .details p {
 	margin: 0;
 	font-size: 0.75rem;
-	color: var(--darkblue);
+	color: var(--darkgreen);
 }
 
 .img-container {

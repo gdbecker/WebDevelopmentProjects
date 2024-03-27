@@ -2,7 +2,7 @@
 
 Simple client side form validation. Check required, length, email and password match
 
-## [Live Demo: Form Validator]()
+## [Live Demo: Form Validator](https://01-form-validator-gdbecker.replit.app/)
 
 ### Preview
 
