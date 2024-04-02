@@ -14,11 +14,11 @@
 		"alt": "02_MovieSeatBooking"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "03_ Custom Video Player",
+		"url": "https://03-custom-video-player-gdbecker.replit.app/",
+		"description": "Custom video player using the HTML5 video element and it's JavaScript API with a custom design",
+		"src": "./public/03_CustomVideoPlayer.png",
+		"alt": "03_CustomVideoPlayer"
 	},
 	{
 		"title": "",
