@@ -21,18 +21,18 @@
 		"alt": "03_CustomVideoPlayer"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "04_ Exchange Rate Calculator",
+		"url": "https://04-exchange-rate-calculator-gdbecker.replit.app/",
+		"description": "Select countries to get the exchange rate for a specific amount",
+		"src": "./public/04_ExchangeRateCalculator.png",
+		"alt": "04_ExchangeRateCalculator"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "05_ DOM Array Methods",
+		"url": "https://05-dom-array-methods-gdbecker.replit.app/",
+		"description": "Project to teach high order array methods and DOM manipulation",
+		"src": "./public/05_DOMArrayMethods.png",
+		"alt": "05_DOMArrayMethods"
 	},
 	{
 		"title": "",

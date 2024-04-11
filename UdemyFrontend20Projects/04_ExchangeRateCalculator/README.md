@@ -2,7 +2,7 @@
 
 Select countries to get the exchange rate for a specific amount
 
-## [Live Demo: Exchange Rate Calculator]()
+## [Live Demo: Exchange Rate Calculator](https://04-exchange-rate-calculator-gdbecker.replit.app/)
 
 ### Preview
 
@@ -12,6 +12,7 @@ Select countries to get the exchange rate for a specific amount
 - HTML
 - CSS
 - Vanilla JavaScript
+- Exchange rates API (https://api.exchangerate-api.com)
 
 ### Specifications
 - Display UI with 2 select lists for countries and 2 inputs for amounts

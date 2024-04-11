@@ -2,7 +2,7 @@
 
 Project to teach high order array methods and DOM manipulation
 
-## [Live Demo: DOM Array Methods]()
+## [Live Demo: DOM Array Methods](https://05-dom-array-methods-gdbecker.replit.app/)
 
 ### Preview
 
@@ -12,6 +12,7 @@ Project to teach high order array methods and DOM manipulation
 - HTML
 - CSS
 - Vanilla JavaScript
+- Random user API (https://randomuser.me/api)
 
 ### Specifications
 - Fetch random users from the randomuser.me API
