@@ -2,7 +2,7 @@
 
 Simple landing page with sliding menu and modal
 
-## [Live Demo: Modal & Menu Slider]()
+## [Live Demo: Modal & Menu Slider](https://06-modal-menu-slider-gdbecker.replit.app/)
 
 ### Preview
 

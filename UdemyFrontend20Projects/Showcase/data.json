@@ -35,11 +35,11 @@
 		"alt": "05_DOMArrayMethods"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "06_ Modal & Menu Slider",
+		"url": "https://06-modal-menu-slider-gdbecker.replit.app/",
+		"description": "Simple landing page with sliding menu and modal",
+		"src": "./public/06_ModalMenuSlider.png",
+		"alt": "06_ModalMenuSlider"
 	},
 	{
 		"title": "",
