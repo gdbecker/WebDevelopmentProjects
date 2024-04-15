@@ -42,11 +42,11 @@
 		"alt": "06_ModalMenuSlider"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "07_ Hangman",
+		"url": "https://07-hangman-gdbecker.replit.app/",
+		"description": "Select a letter to figure out a hidden word in a set amount of chances",
+		"src": "./public/07_Hangman.png",
+		"alt": "07_Hangman"
 	},
 	{
 		"title": "",
