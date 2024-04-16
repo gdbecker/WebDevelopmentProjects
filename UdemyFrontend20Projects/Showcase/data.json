@@ -49,11 +49,11 @@
 		"alt": "07_Hangman"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "08_ Meal Finder App",
+		"url": "https://08-meal-finder-app-gdbecker.replit.app/",
+		"description": "Search and generate random meals from the (https://themealdb.com) API",
+		"src": "./public/08_MealFinderApp.png",
+		"alt": "08_MealFinderApp"
 	},
 	{
 		"title": "",
