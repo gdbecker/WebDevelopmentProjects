@@ -2,7 +2,7 @@
 
 Keep track of income and expenses. Add and remove items and save to local storage
 
-## [Live Demo: Expense Tracker]()
+## [Live Demo: Expense Tracker](https://09-expense-tracker-gdbecker.replit.app/)
 
 ### Preview
 

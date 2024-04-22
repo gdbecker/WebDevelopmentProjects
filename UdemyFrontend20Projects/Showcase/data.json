@@ -56,11 +56,11 @@
 		"alt": "08_MealFinderApp"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "09_ Expense Tracker",
+		"url": "https://09-expense-tracker-gdbecker.replit.app/",
+		"description": "Keep track of income and expenses. Add and remove items and save to local storage",
+		"src": "./public/09_ExpenseTracker.png",
+		"alt": "09_ExpenseTracker"
 	},
 	{
 		"title": "",
