@@ -2,7 +2,7 @@
 
 Create beautiful UI to play music stored in the "music folder" using the HTML5 audio API
 
-## [Live Demo: <ProjectName>]()
+## [Live Demo: Music Player](https://10-music-player-gdbecker.replit.app/)
 
 ### Preview
 

@@ -63,11 +63,11 @@
 		"alt": "09_ExpenseTracker"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "10_ MusicPlayer",
+		"url": "https://10-music-player-gdbecker.replit.app/",
+		"description": "Create beautiful UI to play music stored in the music folder using the HTML5 audio API",
+		"src": "./public/10_MusicPlayer.png",
+		"alt": "10_MusicPlayer"
 	},
 	{
 		"title": "",
