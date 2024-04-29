@@ -70,18 +70,18 @@
 		"alt": "10_MusicPlayer"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "11_ Infinite Scroll Blog",
+		"url": "https://11-infinite-scroll-blog-gdbecker.replit.app/",
+		"description": "Display blog posts from [jsonplaceholder](https://jsonplaceholder.typicode.com/) and add infinite scroll to fetch posts and also add filter box",
+		"src": "./public/11_InfiniteScrollBlog.png",
+		"alt": "11_InfiniteScrollBlog"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "12_ Typing Game",
+		"url": "https://12-typing-game-gdbecker.replit.app/",
+		"description": "Game to beat the clock by typing random words",
+		"src": "./public/12_TypingGame.png",
+		"alt": "12_TypingGame"
 	},
 	{
 		"title": "",

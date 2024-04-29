@@ -2,7 +2,7 @@
 
 Game to beat the clock by typing random words
 
-## [Live Demo: Typing Game]()
+## [Live Demo: Typing Game](https://12-typing-game-gdbecker.replit.app/)
 
 ### Preview
 
