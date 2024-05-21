@@ -2,7 +2,7 @@
 
 A text to speech app for non-verbal people. Pre-made buttons and custom text speech. This project uses the Web Speech API
 
-## [Live Demo: Speech Text Reader]()
+## [Live Demo: Speech Text Reader](https://13-speech-text-reader-gdbecker.replit.app/)
 
 ### Preview
 

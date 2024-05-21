@@ -84,11 +84,11 @@
 		"alt": "12_TypingGame"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "13_ Speech Text Reader",
+		"url": "https://13-speech-text-reader-gdbecker.replit.app/",
+		"description": "A text to speech app for non-verbal people. Pre-made buttons and custom text speech. This project uses the Web Speech API",
+		"src": "./public/13_SpeechTextReader.png",
+		"alt": "13_SpeechTextReader"
 	},
 	{
 		"title": "",
