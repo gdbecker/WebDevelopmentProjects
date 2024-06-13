@@ -98,11 +98,11 @@
 		"alt": "14_MemoryCards"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "15_ Lyrics Search App",
+		"url": "https://15-lyrics-search-app-gdbecker.replit.app/",
+		"description": "Find songs, artists and lyrics using the lyrics.ovh API",
+		"src": "./public/15_LyricsSearchApp.png",
+		"alt": "15_LyricsSearchApp"
 	},
 	{
 		"title": "",

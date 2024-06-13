@@ -2,7 +2,7 @@
 
 Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh/) API
 
-## [Live Demo: Lyrics Search App]()
+## [Live Demo: Lyrics Search App](https://15-lyrics-search-app-gdbecker.replit.app/)
 
 ### Preview
 
