@@ -105,18 +105,18 @@
 		"alt": "15_LyricsSearchApp"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "16_ Relaxer App",
+		"url": "https://16-relaxer-app-gdbecker.replit.app/",
+		"description": "A relaxing breathing app with a visual director to tell you when to breathe in, hold and breathe out",
+		"src": "./public/16_RelaxerApp.png",
+		"alt": "16_RelaxerApp"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "17_ Breakout!",
+		"url": "https://17-breakout-game-gdbecker.replit.app/",
+		"description": "Game where you control a paddle with the arrow keys to bounce a ball up to break bricks. This app uses the HTML5 canvas element and API",
+		"src": "./public/17_BreakoutGame.png",
+		"alt": "17_BreakoutGame"
 	},
 	{
 		"title": "",
