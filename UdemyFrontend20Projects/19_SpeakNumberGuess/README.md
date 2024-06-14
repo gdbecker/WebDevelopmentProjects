@@ -2,7 +2,7 @@
 
 Number guessing game where you speak your guess into the microphone using the speech recognition API
 
-## [Live Demo: Speak Number Guessing Game]()
+## [Live Demo: Speak Number Guessing Game](https://19-speak-number-guess-gdbecker.replit.app/)
 
 ### Preview
 

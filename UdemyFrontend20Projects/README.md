@@ -2,7 +2,7 @@
 
 Projects and learning from Brad Traversy's [20 Web Projects With Vanilla JavaScript course on Udemy](https://www.udemy.com/course/web-projects-with-vanilla-javascript/).
 
-### [Certificate]()
+### [Certificate](https://www.udemy.com/certificate/UC-1b3bfabd-a727-463e-939a-03cc9ae9d516/)
 
 !["Certificate"](./Certificate.jpg)
 

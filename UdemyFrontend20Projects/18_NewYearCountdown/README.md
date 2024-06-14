@@ -2,7 +2,7 @@
 
 Landing page that counts down from the current date to the next new year
 
-## [Live Demo: New Year Countdown]()
+## [Live Demo: New Year Countdown](https://18-new-year-countdown-gdbecker.replit.app/)
 
 ### Preview
 

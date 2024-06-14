@@ -119,24 +119,24 @@
 		"alt": "17_BreakoutGame"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "18_ New Year Countdown",
+		"url": "https://18-new-year-countdown-gdbecker.replit.app/",
+		"description": "Landing page that counts down from the current date to the next new year",
+		"src": "./public/18_NewYearCountdown.png",
+		"alt": "18_NewYearCountdown"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "19_ Speak Number Guessing Game",
+		"url": "https://19-speak-number-guess-gdbecker.replit.app/",
+		"description": "Number guessing game where you speak your guess into the microphone using the speech recognition API",
+		"src": "./public/19_SpeakNumberGuess.png",
+		"alt": "19_SpeakNumberGuess"
 	},
 	{
-		"title": "",
-		"url": "",
-		"description": "",
-		"src": "./public/.png",
-		"alt": ""
+		"title": "20_ Product Filtering UI",
+		"url": "https://20-product-filtering-ui-gdbecker.replit.app/",
+		"description": "UI to filter products by checkbox or search bar, using Tailwind CSS for styling",
+		"src": "./public/20_ProductFilteringUI.png",
+		"alt": "20_ProductFilteringUI"
 	}
 ]
