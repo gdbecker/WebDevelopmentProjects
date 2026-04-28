@@ -2,7 +2,7 @@
 
 Flash card app for learning. Display, add and remove memory cards with questions and answers
 
-## [Live Demo: Memory Cards](https://14-memory-cards-gdbecker.replit.app/)
+## [Live Demo: Memory Cards](https://20p-14-memory-cards-gdbecker.netlify.app)
 
 ### Preview
 

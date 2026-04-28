@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import { TbWorldCode } from "react-icons/tb";
-import Avatar from '../../public/GarrettBecker.jpg';
+import Avatar from '../../public/GarrettBecker2.jpg';
 
 function Navigation() {
 

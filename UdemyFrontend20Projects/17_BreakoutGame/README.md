@@ -2,7 +2,7 @@
 
 Game where you control a paddle with the arrow keys to bounce a ball up to break bricks. This app uses the HTML5 canvas element and API
 
-## [Live Demo: Breakout! Game](https://17-breakout-game-gdbecker.replit.app/)
+## [Live Demo: Breakout! Game](https://20p-17-breakout-game-gdbecker.netlify.app)
 
 ### Preview
 

@@ -2,7 +2,7 @@
 
 Select countries to get the exchange rate for a specific amount
 
-## [Live Demo: Exchange Rate Calculator](https://04-exchange-rate-calculator-gdbecker.replit.app/)
+## [Live Demo: Exchange Rate Calculator](https://20p-04-exchange-rate-calc-gdbecker.netlify.app)
 
 ### Preview
 

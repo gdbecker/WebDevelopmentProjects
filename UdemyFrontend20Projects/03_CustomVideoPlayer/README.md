@@ -2,7 +2,7 @@
 
 Custom video player using the HTML5 video element and it's JavaScript API with a custom design
 
-## [Live Demo: Custom Video Player](https://03-custom-video-player-gdbecker.replit.app/)
+## [Live Demo: Custom Video Player](https://20p-03-custom-video-player-gdbecker.netlify.app)
 
 ### Preview
 

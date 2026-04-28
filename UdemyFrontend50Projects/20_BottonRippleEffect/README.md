@@ -2,7 +2,7 @@
 
 Click on the button to cause a ripple effect depending on where you clicked
 
-## [Live Demo: Button Ripple Effect](https://20-button-ripple-effect-gdbecker.replit.app/)
+## [Live Demo: Button Ripple Effect](https://50p-20-button-ripple-effect-gdbecker.netlify.app)
 
 ### Preview
 

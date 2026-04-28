@@ -2,7 +2,7 @@
 
 UI to filter products by checkbox or search bar, using Tailwind CSS for styling
 
-## [Live Demo: Product Filtering UI](https://20-product-filtering-ui-gdbecker.replit.app/)
+## [Live Demo: Product Filtering UI](https://20p-20-product-filtering-ui-gdbecker.netlify.app)
 
 ### Preview
 

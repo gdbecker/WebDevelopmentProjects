@@ -4,7 +4,9 @@ Showcase website to display my web development projects across many languages, f
 
 ## Links
 
-[Live URL](https://web-development-showcase-gdbecker.netlify.app)
+[Live URL](https://garrettdbeckershowcasewebdevelopment.netlify.app)
+
+!["showcase"](./showcase.png)
 
 ## Built with
 

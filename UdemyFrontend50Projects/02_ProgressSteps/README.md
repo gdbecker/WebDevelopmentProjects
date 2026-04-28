@@ -2,7 +2,7 @@
 
 Click the next or prev buttons to advance the progress bar
 
-## [Live Demo: Progress Steps](https://02-progress-steps-gdbecker.replit.app/)
+## [Live Demo: Progress Steps](https://50p-02-progress-steps-gdbecker.netlify.app)
 
 ### Preview
 

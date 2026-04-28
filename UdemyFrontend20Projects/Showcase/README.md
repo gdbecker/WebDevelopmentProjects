@@ -2,7 +2,7 @@
 
 All 20 projects from Brad Traversy's course!
 
-## [Live Demo: Showcase](https://20-projects-gdbecker.replit.app/)
+## [Live Demo: Showcase](https://20p-showcase-gdbecker.netlify.app)
 
 ### Preview
 

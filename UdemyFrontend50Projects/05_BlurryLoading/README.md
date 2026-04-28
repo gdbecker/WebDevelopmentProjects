@@ -2,7 +2,7 @@
 
 Gradually load the page with the background image slowly coming into focus
 
-## [Live Demo: Blurry Loading](https://05-blurry-loading-gdbecker.replit.app/)
+## [Live Demo: Blurry Loading](https://50p-05-blurry-loading-gdbecker.netlify.app)
 
 ### Preview
 

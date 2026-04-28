@@ -2,7 +2,7 @@
 
 Scroll up/down to trigger the content boxes to pop in or out from the right or left
 
-## [Live Demo: Scroll Animation](https://06-scroll-animation-gdbecker.replit.app/)
+## [Live Demo: Scroll Animation](https://50p-06-scroll-animation-gdbecker.netlify.app)
 
 ### Preview
 

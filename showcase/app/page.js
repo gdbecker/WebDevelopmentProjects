@@ -150,7 +150,7 @@ function Home() {
 
   if (!isLoading) {
     return (
-      <main className="flex flex-col items-center justify-center w-full h-full p-10 bg-darkGreen md:items-center 2xl:px-36">
+      <main className="flex flex-col items-center justify-start w-full min-h-screen p-10 bg-darkGreen md:items-center 2xl:px-36">
 
         <h1 className="pb-9 font-spaceGroteskRegular text-justify text-white leading-7 md:w-[50vw]">
           Over the past few years, I've been exploring a lot about web development and teaching myself different languages, frontend
@@ -172,21 +172,22 @@ function Home() {
               onChange={e => onChangeProjectSearch(e)}
             />
           </div>
-          <details className="flex dropdown w-[100%] my-2 md:my-0 md:w-[35%] lg:w-[35%] xl:w-[35%]">
-            <summary className="flex flex-row items-center justify-between h-full mb-[2px] btn w-full rounded-md border-0 shadow-md no-animation bg-white text-darkGreen hover:bg-white">
-              <h1 
-                className="flex normal-case text-xs font-spaceGroteskRegular"
-              >{groupSelect}</h1>
+          <details className="dropdown inline-block w-[100%] my-4 md:my-0 md:w-[35%] lg:w-[35%] xl:w-[35%]">
+            <summary className="flex flex-row items-center justify-between h-12 px-4 btn w-full rounded-md border-0 shadow-md no-animation bg-white text-darkGreen hover:bg-white list-none">
+              <h1 className="normal-case text-xs font-spaceGroteskRegular">
+                {groupSelect}
+              </h1>
               <BiChevronDown className="text-sm"/>
             </summary>
-            <ul className="flex px-2 py-4 shadow menu dropdown-content z-[1] rounded-md w-full bg-white text-darkGreen">
-              {groups.map((g) => (
+            <ul className="dropdown-content absolute z-[100] menu p-2 shadow-xl bg-white text-darkGreen rounded-md w-full mt-2 left-0">
+              {groups.map((g, index) => (
                 <li
+                  key={index}
                   onClick={(e) => handleGroupChange(e)}
                   className="text-xs font-spaceGroteskRegular"
                 >
                   <a 
-                    className="px-4 py-1 rounded-none hover:bg-white"
+                    className="px-4 py-3 rounded-md hover:bg-slate-50 active:bg-slate-100"
                     name={g.group}
                   >
                     {g.group}
@@ -195,21 +196,22 @@ function Home() {
               ))}
             </ul>
           </details>
-          <details className="flex dropdown w-[100%] my-0 md:my-0 md:w-[28%] lg:w-[20%] xl:w-[15%]">
-            <summary className="flex flex-row items-center justify-between h-full mb-[2px] btn w-full rounded-md border-0 shadow-md no-animation bg-white text-darkGreen hover:bg-white">
-              <h1 
-                className="flex normal-case text-xs font-spaceGroteskRegular"
-              >{toolsSelect}</h1>
+          <details className="dropdown inline-block w-full my-4 md:my-0 md:w-[28%] lg:w-[20%] xl:w-[15%]">
+            <summary className="flex flex-row items-center justify-between h-12 px-4 btn w-full rounded-md border-0 shadow-md no-animation bg-white text-darkGreen hover:bg-white list-none">
+              <h1 className="normal-case text-xs font-spaceGroteskRegular">
+                {toolsSelect}
+              </h1>
               <BiChevronDown className="text-sm"/>
             </summary>
-            <ul className="flex px-2 py-4 shadow menu dropdown-content z-[1] rounded-md w-full bg-white text-darkGreen">
-              {tools.map((t) => (
+            <ul className="dropdown-content absolute z-[100] menu p-2 shadow-xl bg-white text-darkGreen rounded-md w-full mt-2 left-0 max-h-96 overflow-y-auto overflow-x-hidden flex-nowrap">
+              {tools.map((t, index) => (
                 <li
+                  key={index}
                   onClick={(e) => handleToolsChange(e)}
                   className="text-xs font-spaceGroteskRegular"
                 >
                   <a 
-                    className="px-4 py-1 rounded-none hover:bg-white"
+                    className="px-4 py-3 rounded-md hover:bg-slate-50 active:bg-slate-100"
                     name={t.tools}
                   >
                     {t.tools}

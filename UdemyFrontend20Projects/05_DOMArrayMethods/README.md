@@ -2,7 +2,7 @@
 
 Project to teach high order array methods and DOM manipulation
 
-## [Live Demo: DOM Array Methods](https://05-dom-array-methods-gdbecker.replit.app/)
+## [Live Demo: DOM Array Methods](https://20p-05-dom-array-methods-gdbecker.netlify.app)
 
 ### Preview
 

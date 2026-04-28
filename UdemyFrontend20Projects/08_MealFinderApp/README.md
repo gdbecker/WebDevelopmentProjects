@@ -2,7 +2,7 @@
 
 Search and generate random meals from the [themealdb.com](https://themealdb.com) API
 
-## [Live Demo: Meal Finder App](https://08-meal-finder-app-gdbecker.replit.app/)
+## [Live Demo: Meal Finder App](https://20p-08-meal-finder-app-gdbecker.netlify.app)
 
 ### Preview
 

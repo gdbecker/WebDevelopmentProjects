@@ -2,7 +2,7 @@
 
 Click each button to play a different sound
 
-## [Live Demo: Sound Board](https://09-sound-board-gdbecker.replit.app/)
+## [Live Demo: Sound Board](https://50p-09-sound-board-gdbecker.netlify.app)
 
 ### Preview
 

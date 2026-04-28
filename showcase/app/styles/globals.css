@@ -18,6 +18,11 @@
   src: url(../../public/SpaceGrotesk-Bold.ttf);
 }
 
+/* Global Settings */
+html, body, :root {
+  height: 100%;
+}
+
 /* Project Backgrounds */
 .bg-project {
   transition: transform 0.2s;
