@@ -2,7 +2,7 @@
 
 Series of testimonial boxes that switch every ten seconds
 
-## [Live Demo: Testimonial Box Switcher](https://47-testimonial-box-switcher-gdbecker.replit.app/)
+## [Live Demo: Testimonial Box Switcher](https://50p-47-testimonial-switcher-gdbecker.netlify.app)
 
 ### Preview
 

@@ -2,7 +2,7 @@
 
 Mobile UI with navbar to active different images
 
-## [Live Demo: Mobile Tab Navigation](https://38-mobile-tab-navigation-gdbecker.replit.app/)
+## [Live Demo: Mobile Tab Navigation](https://50p-38-mobile-tab-navigation-gdbecker.netlify.app)
 
 ### Preview
 

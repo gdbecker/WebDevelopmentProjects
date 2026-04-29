@@ -2,7 +2,7 @@
 
 Mobile Netflix navigation menu with multi-panel effect
 
-## [Live Demo: Netflix Mobile Navigation](https://45-netflix-mobile-navigation-gdbecker.replit.app/)
+## [Live Demo: Netflix Mobile Navigation](https://50p-45-mobile-navigation-gdbecker.netlify.app)
 
 ### Preview
 

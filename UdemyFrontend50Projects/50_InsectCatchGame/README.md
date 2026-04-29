@@ -2,7 +2,7 @@
 
 Try to catch all of the insects you can
 
-## [Live Demo: Insect Catch Game](https://50-insect-catch-game-gdbecker.replit.app/)
+## [Live Demo: Insect Catch Game](https://50p-50-insect-catch-game-gdbecker.netlify.app)
 
 ### Preview
 

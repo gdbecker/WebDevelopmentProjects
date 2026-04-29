@@ -2,7 +2,7 @@
 
 Pokemon cards site with images, types, and names for each - uses the Poke API
 
-## [Live Demo: Pokedex](https://37-pokedex-gdbecker.replit.app/)
+## [Live Demo: Pokedex](https://50p-37-pokedex-gdbecker.netlify.app)
 
 ### Preview
 

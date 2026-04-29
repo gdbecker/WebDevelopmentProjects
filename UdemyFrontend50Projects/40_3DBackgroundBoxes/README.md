@@ -2,7 +2,7 @@
 
 Grid of boxes with 3D effect and background image
 
-## [Live Demo: 3D Background Boxes](https://40-3d-background-boxes-gdbecker.replit.app/)
+## [Live Demo: 3D Background Boxes](https://50p-40-3d-background-boxes-gdbecker.netlify.app)
 
 ### Preview
 

@@ -2,7 +2,7 @@
 
 Image carousel that slides through automatically, but also has previous/next buttons to manually click through
 
-## [Live Demo: Image Carousel](https://35-image-carousel-gdbecker.replit.app/)
+## [Live Demo: Image Carousel](https://50p-35-image-carousel-gdbecker.netlify.app)
 
 ### Preview
 

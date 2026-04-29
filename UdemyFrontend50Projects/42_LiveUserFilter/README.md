@@ -2,7 +2,7 @@
 
 Search and filter down users by name - uses data from the Random User API
 
-## [Live Demo: Live User Filter](https://42-live-user-filter-gdbecker.replit.app/)
+## [Live Demo: Live User Filter](https://50p-42-live-user-filter-gdbecker.netlify.app)
 
 ### Preview
 

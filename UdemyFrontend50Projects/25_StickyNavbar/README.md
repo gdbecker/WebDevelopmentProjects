@@ -2,7 +2,7 @@
 
 Navigation bar sticks to the top of the page and changes style at a scroll point on the page
 
-## [Live Demo: Sticky Navbar](https://25-sticky-navbar-gdbecker.replit.app/)
+## [Live Demo: Sticky Navbar](https://50p-25-sticky-navbar-gdbecker.netlify.app)
 
 ### Preview: Before Scroll
 

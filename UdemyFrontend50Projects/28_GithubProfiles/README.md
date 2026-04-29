@@ -2,7 +2,7 @@
 
 Search for and pull Github profile info
 
-## [Live Demo: Github Profiles](https://28-github-profiles-gdbecker.replit.app/)
+## [Live Demo: Github Profiles](https://50p-28-github-profiles-gdbecker.netlify.app)
 
 ### Preview
 

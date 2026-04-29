@@ -2,7 +2,7 @@
 
 A 3-2-1 countdown timer with animation that can be used before loading a web page
 
-## [Live Demo: Animated Countdown](https://34-animated-countdown-gdbecker.replit.app/)
+## [Live Demo: Animated Countdown](https://50p-34-animated-countdown-gdbecker.netlify.app)
 
 ### Preview
 

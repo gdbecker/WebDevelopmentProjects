@@ -2,7 +2,7 @@
 
 Grid of randomly generated images
 
-## [Live Demo: Random Image Feed](https://48-random-image-feed-gdbecker.replit.app/)
+## [Live Demo: Random Image Feed](https://50p-48-random-image-feed-gdbecker.netlify.app)
 
 ### Preview
 

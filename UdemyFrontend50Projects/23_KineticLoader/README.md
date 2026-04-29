@@ -2,7 +2,7 @@
 
 Animated triangle loader with only CSS
 
-## [Live Demo: Kinetic Loader](https://23-kinetic-loader-gdbecker.replit.app/)
+## [Live Demo: Kinetic Loader](https://50p-23-kinetic-loader-gdbecker.netlify.app)
 
 ### Preview
 
