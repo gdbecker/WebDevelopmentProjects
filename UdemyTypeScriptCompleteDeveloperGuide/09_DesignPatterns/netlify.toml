@@ -1,3 +1,4 @@
 [build]
+  base = "/UdemyTypeScriptCompleteDeveloperGuide/09_DesignPatterns"
   command = "npx parcel build index.html"
-  publish = "/UdemyTypeScriptCompleteDeveloperGuide/09_DesignPatterns/dist"
+  publish = "dist"
