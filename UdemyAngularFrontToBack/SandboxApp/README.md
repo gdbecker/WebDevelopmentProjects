@@ -1,6 +1,6 @@
 ## Angular Sandbox App
 
-## [Live Demo: Sandbox App](https://sandbox-app-gdbecker.netlify.app)
+## [Live Demo: Sandbox App](https://ng-sandbox-app-gdbecker.netlify.app)
 
 #### Home Page
 

@@ -28,5 +28,6 @@ export class CustomMap {
     });
 
     infoWindow.open(this.googleMap, marker);
-  });
+    });
+  }
 }
