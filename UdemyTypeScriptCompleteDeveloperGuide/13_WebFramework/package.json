@@ -2,8 +2,9 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+
   "scripts": {
+    "build": "parcel build index.html --public-url ./ ",
     "server": "'json-server --watch db.json --port 4000'",
     "start": "concurrently 'npx parcel index.html'"
   },

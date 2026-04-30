@@ -1,6 +1,6 @@
 ## Section 22: RandomIdeas App - Webpack Frontend
 
-## [Live Demo: Random Ideas App](https://js-random-ideas-app-gdbecker.onrender.com)
+## [Live Demo: Random Ideas App](https://js-random-ideas-app-gdbecker.replit.app)
 
 !["HomePage"](HomePage.png)
 
