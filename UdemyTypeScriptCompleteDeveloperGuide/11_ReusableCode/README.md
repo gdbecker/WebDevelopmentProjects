@@ -1,6 +1,6 @@
 ## Reusable Code
 
-### [Live Demo: Football Matches App](https://replit.com/@gdbecker/TypeScript-Football-Matches-App)
+### [Live Demo: Football Matches App](https://ts-football-matches-app-gdbecker.netlify.app)
 
 !["HomePage"](HomePage.png)
 

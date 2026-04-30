@@ -1,13 +1,12 @@
 import React from "react";
 
 function Footer() {
-  const year = new Date().getFullYear();
   return (
     <footer className="">
       Coded by{" "}
       <a
         href="https://github.com/gdbecker/WebDevelopmentProjects"
-        target="_blank"
+        target="_blank" rel="noopener noreferrer"
       >
         Garrett Becker
       </a>
