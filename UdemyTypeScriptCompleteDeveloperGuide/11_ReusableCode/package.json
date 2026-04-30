@@ -4,7 +4,7 @@
   "description": "",
 
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && cp index.html build/index.html",
     "start:build": "tsc -w",
     "start:run": "nodemon build/index.js",
     "start": "concurrently npm:start:* npx static-server"

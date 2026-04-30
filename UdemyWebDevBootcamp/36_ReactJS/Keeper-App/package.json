@@ -1,6 +1,7 @@
 {
   "name": "keeper-app",
   "version": "1.0.0",
+  "homepage": ".",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
@@ -21,7 +22,7 @@
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts build",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },

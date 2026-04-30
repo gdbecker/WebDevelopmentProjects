@@ -1,2 +1,7 @@
 [build.environment]
   NODE_OPTIONS = "--openssl-legacy-provider"
+
+[build]
+  base = "/UdemyWebDevBootcamp/36_ReactJS/Keeper-App"
+  command = "export NODE_OPTIONS=--openssl-legacy-provider && npm run build"
+  publish = "build"

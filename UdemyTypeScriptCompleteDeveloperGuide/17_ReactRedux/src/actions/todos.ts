@@ -11,11 +11,13 @@ export interface Todo {
 export interface FetchTodosAction {
   type: ActionTypes.fetchTodos;
   payload: Todo[];
+  [key: string]: any; // Add this line to satisfy UnknownAction
 }
 
 export interface DeleteTodoAction {
   type: ActionTypes.deleteTodo;
   payload: number;
+  [key: string]: any;
 }
 
 const url = 'https://jsonplaceholder.typicode.com/todos';
