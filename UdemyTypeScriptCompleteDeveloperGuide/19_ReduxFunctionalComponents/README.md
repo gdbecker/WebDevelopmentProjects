@@ -1,6 +1,6 @@
 ## Redux with Functional Components and TypeScript
 
-### [Live Demo: NPM Package Search App](https://type-script-npm-package-search-app-gdbecker.replit.app/)
+### [Live Demo: NPM Package Search App](https://ts-npm-package-search-app-gdbecker.netlify.app)
 
 !["HomePage"](HomePage.png)
 

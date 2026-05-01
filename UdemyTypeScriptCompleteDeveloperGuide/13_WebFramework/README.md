@@ -1,6 +1,6 @@
 ## Let's Build a Web Framework
 
-### [Live Demo: Web Framework](https://type-script-build-a-web-framework-gdbecker.replit.app/)
+### [Live Demo: Web Framework](https://ts-web-framework-gdbecker.netlify.app)
 
 !["HomePage"](HomePage.png)
 

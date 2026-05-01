@@ -6,6 +6,8 @@ Projects and learning from Brad Traversy's [20 Web Projects With Vanilla JavaScr
 
 !["Certificate"](./Certificate.jpg)
 
+### [Live Demo: Links to All Projects](https://20p-showcase-gdbecker.netlify.app)
+
 ### Course Details
 
 #### What you'll learn
