@@ -1,0 +1,4 @@
+[build]
+  base = "/UdemyWebDevBootcamp/23_NodeJS/QRCodeGenerator"
+  command = "npm run build"
+  publish = "."
