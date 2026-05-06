@@ -4,7 +4,7 @@ Over the past few years, I've been exploring a lot about web development and tea
 
 ## Links
 
-[Projects Showcase Site](https://garrettdbeckershowcasewebdevelopment.netlify.app)
+[Projects Showcase Site](https://gdbeckershowcasewebdevelopment.netlify.app)
 
 ## Table of Contents
 - [Web Development Projects](#web-development-projects)

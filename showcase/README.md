@@ -4,7 +4,7 @@ Showcase website to display my web development projects across many languages, f
 
 ## Links
 
-[Live URL](https://garrettdbeckershowcasewebdevelopment.netlify.app)
+[Live URL](https://gdbeckershowcasewebdevelopment.netlify.app)
 
 !["showcase"](./showcase.png)
 
@@ -20,6 +20,5 @@ Showcase website to display my web development projects across many languages, f
 
 ## Author
 
-- Website - [Garrett Becker]()
 - Replit - [@gdbecker](https://replit.com/@gdbecker)
 - LinkedIn - [Garrett Becker](https://www.linkedin.com/in/garrett-becker-923b4a106/)
